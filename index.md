@@ -6,7 +6,7 @@ filename: index.md
 title: FITARA
 ---
 ###Sections and Attachments
-- [Introduction]("")
+- [Introduction](http://whitehouse.github.com/fitara)
 - [Timeframe and Instructions for Public Feedback](#timeframe)
 - [Frequently Asked Questions (FAQ)](#faq)
 - [Main Body of Proposed Guidance](#mainbody)
