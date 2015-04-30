@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="description" content="{{ site.desc }}">
+  <meta name="viewport" content="width=device-width">
+
+  <title>OMB - Management and Oversight of Federal IT Public Feedback</title>
+
+  <link rel="shortcut icon" href="http://whitehouse.github.io/fitara/favicon.ico"/>
+  <link rel="stylesheet" href="http://whitehouse.github.io/fitara/assets/css/bootstrap.css">
+  <link rel="stylesheet" href="http://whitehouse.github.io/fitara/assets/css/site.css">
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+
+  {% capture edit_url %}https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}{% endcapture %}
+
+</head>
+<body class="{{ page.id }}">
+  <!--[if lt IE 7]>
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span12">
+        <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="https://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+      </div>
+    </div>
+  </div>
+  <![endif]-->
+
+
+  <!-- Static navbar -->
+  <div id="header" class="navbar navbar-default navbar-static-top" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="https://www.whitehouse.gov/omb">Office of Management and Budget</a>
+      </div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a class="edit-button" href="{{ edit_url }}"><span>Edit Guidance</span></a></li>
+	  <li><a class="edit-button" href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues"><span>Provide Feedback</span></a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Sections<span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="">Introduction</a></li>
+              <li><a href="#timeframe">Timeframe and Instructions for Public Feedback</a></li>
+	      <li><a href="#faq">Frequently Asked Questions (FAQ)</a></li>
+              <li><a href="#mainbody">Main Body of Proposed Guidance</a></li>
+              <li><a href="#A">Attachment A: Common Baseline for IT Management and CIO Assignment Plan</a></li>
+              <li><a href="#B">Attachment B: Definitions of Terms for the Purposes of this Guidance</a></li>
+              <li><a href="#C">Attachment C: Template for Agency Common Baseline Self-Assessment and Plan</a></li>
+              <li><a href="#D">Attachment D: FY 2015 PortfolioStat</a></li>
+              <li><a href="#E">Attachment E: Investment and Portfolio Management Maturity Framework</a></li>
+              <li><a href="#endnotes">Endnotes</a></li>
+            </ul>
+          </li>
+          <li><a href="https://cio.gov/wp-content/uploads/2015/04/OMB-Proposed-Guidance-Management-and-Oversight-of-Information-Technology-Resources.pdf">Download PDF</a></li>
+        </ul>
+      </div><!--/.nav-collapse -->
+    </div>
+  </div>
