@@ -371,9 +371,11 @@ Related statutory language from FITARA:
 * “A covered agency… may use the governance processes of the agency to approve such a contract or other agreement if the Chief Information Officer of the agency is included as a full participant in the governance processes.” Also, “[t]he head of each agency shall ensure that the Chief Information Officer of the agency has a significant role in… the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports related to IT and …the management, governance and oversight processes related to [IT].” 40 U.S.C. § 11319(b)(1)(A) and (C)(i)(III)
 
 ###Summary of Common Baseline
-
+  
+    
 <img src="https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png" width=100%>
-
+  
+    
 _[Return to the Top]()_
 
 <a id="B"></a>
