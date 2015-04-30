@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css?family=Roboto+Slab:400,700|Noto+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Noto+Sans:400,700);
 
 body {
   font-family: "Noto Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -87,7 +87,7 @@ ul {
 }
 .navbar .nav > li > a {
   color: #ffffff;
-  border-bottom: 2px solid #002a5b;  
+  border-bottom: 2px solid #002a5b;
 }
 .navbar .nav > li > a:focus,
 .navbar .nav > li > a:hover {
@@ -112,7 +112,7 @@ a:focus.edit-button span {
 
 .navbar .nav > li > a:hover.edit-button,
 .navbar .nav > li > a:focus.edit-button {
-  border-bottom: 2px solid #002a5b;  
+  border-bottom: 2px solid #002a5b;
 }
 
 
@@ -211,24 +211,24 @@ background-color : #e3e3e3;
 
 #footer { padding: 40px 10px; }
 
-ul.schema-fields, 
+ul.schema-fields,
 ul.schema-fields ul {
     list-style : none;
     padding : 0;
     margin : 0;
 }
 
-ul.schema-fields li { 
-    padding-left: 1em; 
+ul.schema-fields li {
+    padding-left: 1em;
     text-indent: -.7em;
 }
 
 .schema-fields.requirements-key {
   float : right;
   border : 1px solid #ccc;
-  padding : 1em; 
+  padding : 1em;
   background-color : #f9f9f9;
-  border-radius: 5px; 
+  border-radius: 5px;
 }
 
 .field-required:before {
@@ -244,32 +244,32 @@ span.field-required {
   font-weight : bold;
 }
 
-.field-required-if-applicable:before, 
+.field-required-if-applicable:before,
 .field-required .field-required-if-applicable:before {
-  content: "◎ "; 
+  content: "◎ ";
   color : DarkMagenta;
 }
 
 span.field-required-if-applicable {
- color : DarkMagenta; 
+ color : DarkMagenta;
 }
 
 
-.field-required-if-applicable, 
+.field-required-if-applicable,
 .field-required .field-required-if-applicable {
   font-weight : normal;
 }
 
-.field-optional:before, 
-.field-required .field-optional:before, 
-.field-required-if-applicable .field-optional:before {    
+.field-optional:before,
+.field-required .field-optional:before,
+.field-required-if-applicable .field-optional:before {
     content: "◌ ";
     color : MidnightBlue;
 }
 
-.field-optional:before, 
-.field-required .field-optional, 
-.field-required-if-applicable .field-optional {    
+.field-optional:before,
+.field-required .field-optional,
+.field-required-if-applicable .field-optional {
     font-weight : normal;
 }
 
