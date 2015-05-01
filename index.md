@@ -368,7 +368,7 @@ Related statutory language from FITARA:
 
 ### Summary of Common Baseline
 
-![Common baseline for IT Management](https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png)
+![Common baseline for IT Management](https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png){: width="100%" }
 
 _[Return to the Top]()_
 
