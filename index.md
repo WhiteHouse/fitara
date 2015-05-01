@@ -454,7 +454,8 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
 ### Fiscal Year 2015 PortfolioStat Performance Metrics[^33]
 
 #### Drive Value in Federal IT Investments
-
+  
+{: .table .table-striped}  
 Metric                           | Metric Definition
 -------------                       | --------------
 Deliver on Budget                     | Percent of IT projects within 10% of budgeted cost (% “Green” cost variance on the IT Dashboard)
@@ -463,7 +464,8 @@ Development, Modernization, and Enhancement (DME) Spending | Percent of IT spend
 IPv6 Adoption                       | Percent of operational “Internet Protocol version 6” (IPv6) enabled domains
 
 #### Deliver World Class Services
-
+  
+{: .table .table-striped}  
  Metric | Metric Definition
  ------------- | --------------
  Commodity IT Spending | Infrastructure spending per person
@@ -475,6 +477,7 @@ IPv6 Adoption                       | Percent of operational “Internet Protoco
 
 #### Protect Federal IT Assets and Information[^35]
 
+{: .table .table-striped}  
  Metric | Metric Definition
  ------------- | --------------
  Information Security Continuous Monitoring (ISCM) | Average percentage of IT assets subject to an automated inventory, configuration, or vulnerability management capability.
