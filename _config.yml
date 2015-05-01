@@ -21,6 +21,8 @@ relative_permalinks: false
 gems:
   - jekyll-redirect-from
 
+kramdown:
+  toc_levels: "1,2"
 
 # original settings
 
