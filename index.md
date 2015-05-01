@@ -38,7 +38,7 @@ We are seeking your feedback and suggestions on this proposed guidance by May 30
 
 You may provide feedback in three ways:
 
-1.	You may e-mail us at <a href="mailto:fitara@cio.gov">fitara@cio.gov</a> if you would like to comment privately.
+1.	You may e-mail us at <fitara@cio.gov> if you would like to comment privately.
 2.	Content suggestions and discussions are welcome via GitHub “issues.” Each issue is a conversation initiated by a member of the public. We encourage you to browse and [join in on discussions](https://github.com/WhiteHouse/fitara/issues "Link to the Issues Section of GitHub") in existing issues, or start a new conversation by opening a [new issue](https://github.com/WhiteHouse/fitara/issues/new).
 3.	Direct changes and line edits to the content may submitted through a ["pull request"](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests") by clicking [“Edit Guidance."](https://github.com/whitehouse/fitara/edit/gh-pages/index.md "Link to the Pull Requests Section of GitHub") You don't need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found [here](https://help.github.com/articles/creating-a-pull-request "More Information on Submitting Pull Requests"). Open pull requests for the proposed guidance can be found [here](https://github.com/whitehouse/fitara/pulls).  
 
