@@ -530,12 +530,11 @@ Agencies shall evaluate their performance in each of the following areas by comp
 
 _[Return to the Top]()_
 
-<a id="endnotes"></a>
 ## Endnotes
 
 [^1]: Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.
 [^2]: Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.
-[^3]: Agencies listed in 31 U.S.C. § 901 (b)(1) and (b)(2) 
+[^3]: Agencies listed in 31 U.S.C. § 901 (b)(1) and (b)(2)
 [^4]: M-14-08 FY2014 PortfolioStat Guidance available at: [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf)
 [^5]: Clinger-Cohen Act (40 USC §§ 11101-11704) available at [http://www.gpo.gov/fdsys/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII.htm](http://www.gpo.gov/fdsys/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII.htm)
 [^6]: Ibid.
