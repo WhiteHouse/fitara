@@ -8,16 +8,8 @@ title: FITARA
 
 ### Sections and Attachments
 
--- [Introduction](https://whitehouse.github.io/fitara/)
--- [Timeframe and Instructions for Public Feedback](#timeframe)
--- [Frequently Asked Questions (FAQ)](#faq)
--- [Main Body of Proposed Guidance](#mainbody)
--- [Attachment A: Common Baseline for IT Management and CIO Assignment Plan](#A)
--- [Attachment B: Definitions of Terms for the Purposes of this Guidance](#B)
--- [Attachment C: Template for Agency Common Baseline Self-Assessment and Plan](#C)
--- [Attachment D: Fiscal Year 2015 PortfolioStat](#D)
--- [Attachment E: Investment and Portfolio Management Maturity Framework](#E)
--- [Endnotes](#endnotes)
+* Table of Contents
+{:toc max_level=2 }
 
 ## Introduction
 The Federal Information Technology Acquisition Reform Act ([FITARA)](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148]), passed by Congress in December 2014, is a historic law that represents the first major overhaul of Federal information technology (IT) in almost 20 years. Since FITARA’s passage, OMB has been developing guidance to agencies to ensure that this law is applied consistently government-wide in a way that is both workable and effective. In a time of unprecedented opportunity for technology to accelerate the quality and timeliness of services delivered to the American people, the importance of ensuring successful management and oversight of IT, including the successful implementation of FITARA, cannot be overstated.
