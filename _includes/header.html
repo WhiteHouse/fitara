@@ -17,6 +17,16 @@
 
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
+  <!--
+    redirect users to the https version of the website.
+    but: only check when on the production domain, as set in _config.yml.
+   -->
+  <script type="text/javascript">
+    var enforce = "{{ site.production_hostname }}";
+    if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+
   {% capture edit_url %}https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}{% endcapture %}
 
 </head>
