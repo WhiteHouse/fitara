@@ -3,10 +3,11 @@
 #document settings
 title: Management and Oversight of Information Technology Resources
 desc: Proposed Guidance From the Office of Management and Budget (OMB)
-url: http://whitehouse.github.io/fitara/
+url: https://whitehouse.github.io/fitara/
 
 #global settings, no need to change these
-root_url: http://whitehouse.github.io/fitara/
+root_url: https://whitehouse.github.io/fitara/
+production_hostname: whitehouse.github.io
 org_name: whitehouse
 repo_name: fitara
 branch: gh-pages
@@ -26,7 +27,7 @@ gems:
 permalink: pretty
 # markdown: rdiscount
 highlighter: pygments
-# url: http://management.cio.gov
+# url: https://management.cio.gov
 
 collections:
   - guidanceSections
