@@ -222,9 +222,9 @@ OMB FDCCI Guidance<sup>[14](#footnote-14)</sup>,  which was issued in March 2012
 3.  Government-Wide Software Purchasing Program. OMB established the Category Management initiative<sup>[18](#footnote-18)</sup>  in December 2014. The General Services Administration (GSA), in collaboration with OMB, shall create, and allow agencies access to, government-wide enterprise software licenses through new awards as part of category management, a practice adopted by industry where spending is managed by experts who  promote best practices and help agencies avoid unnecessary duplicative spending and activities. These awards shall, at a minimum, allow for the purchase of a license agreement that is available for use by all Executive agencies<sup>[19](#footnote-19)</sup>.  
 
 _[Return to the Top]()_
-
 <a id="A"></a>
-##Attachment A: Common Baseline for IT Management and CIO Assignment Plan 
+
+## Attachment A: Common Baseline for IT Management and CIO Assignment Plan 
 
 All covered agencies shall adopt specific controls for the management of IT from the “Common Baseline” below. The Common Baseline prescribes a basic set of specific responsibilities and processes that all covered agencies shall have in place no later than December 31, 2015. A set of definitions follows the Common Baseline to further clarify the specific responsibilities.
 
@@ -238,7 +238,9 @@ The Department of Defense (DOD), the Intelligence Community, and portions of oth
 
 
 ###Budget Formulation and Planning
-#####Visibility of IT resources
+
+##### Visibility of IT resources  
+
   - A1. *CIO Role/Responsibility*: Visibility of IT resource plans/decisions to CIO. The CFO and CIO jointly shall define the level of detail with which IT resource levels are described distinctly from other resources throughout the planning, programming, and budgeting stages. This should serve as the primary input into the IT capital planning and investment control documents submitted with the budget (formerly Exhibits 53 and 300).
   - A2. *CXO Role/Responsibility*: Visibility of IT resource plans/decisions in budget materials. The CFO and CIO jointly shall define the level of detail with which IT resource levels are described as detailed in A1.
   - *Statutory Language*: “The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions” 40 U.S.C. § 11319(b)(1)(A)
@@ -265,7 +267,8 @@ The Department of Defense (DOD), the Intelligence Community, and portions of oth
 BUDGET FORMULATION.—The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following:‘(i) That the Chief Information Officer of each covered agency … approve the information technology budget request of the covered agency. 40 U.S.C. 11319 (b)(1)(B)(i)
 
 ###Acquisition and Execution
-#####Ongoing CIO engagement with program managers
+
+##### Ongoing CIO engagement with program managers  
 
   - E1. *CIO Role/Responsibility*: Ongoing CIO engagement with program managers. The CIO should establish and maintain a process to regularly engage with program managers to evaluate IT resources supporting each agency strategic objective. It should be the CIO and program managers’ shared responsibility to ensure that legacy and on-going IT investments are appropriately delivering customer value and meeting the business objectives of programs.
   - E2. *CXO Role/Responsibility*: Ongoing CIO engagement with program managers. Program managers shall work with the CIO to define IT performance metrics and strategies to support fulfillment of agency strategic objectives defined in the agency’s strategic plan.
@@ -371,14 +374,16 @@ Related statutory language from FITARA:
 * “A covered agency… may use the governance processes of the agency to approve such a contract or other agreement if the Chief Information Officer of the agency is included as a full participant in the governance processes.” Also, “[t]he head of each agency shall ensure that the Chief Information Officer of the agency has a significant role in… the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions, related reporting requirements, and reports related to IT and …the management, governance and oversight processes related to [IT].” 40 U.S.C. § 11319(b)(1)(A) and (C)(i)(III)
 
 ###Summary of Common Baseline
-
+  
+    
 <img src="https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png" width=100%>
-
+  
+    
 _[Return to the Top]()_
-
 <a id="B"></a>
-##Attachment B: Definitions of Terms for the Purposes of this Guidance
 
+## Attachment B: Definitions of Terms for the Purposes of this Guidance  
+  
 **Agency CIO** - The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in [Section 20 of OMB Circular A-11](https://www.whitehouse.gov/sites/default/files/omb/assets/a11_current_year/s20.pdf). (Contrast with ‘bureau CIO’)
 
 **Bureau CIO** - Official with the title or role of Chief Information Officer within a principal subordinate organizational unit of the agency, as defined in [Section 20 of OMB Circular A-11](https://www.whitehouse.gov/sites/default/files/omb/assets/a11_current_year/s20.pdf), or any component organization of the agency (Contrast with ‘agency CIO’)
@@ -405,19 +410,19 @@ D. The term “information technology” does not include any equipment that is 
 **Interagency Agreement** - A written agreement entered into between two Federal agencies that specifies the goods to be furnished or tasks to be accomplished by one agency (the servicing agency) in support of the other (the requesting agency), including assisted acquisitions as described in OMB Memorandum: Improving the Management and use of Interagency Acquisitions<sup>[22](#footnote-22)</sup> and other cases described in FAR Part 17.<sup>[23](#footnote-23)</sup>  In the case of agreements that contain IT resources, the requesting agency’s CIO shall be responsible for reviewing the Inter-agency Agreement as described in the Common Baseline. 
 
 _[Return to the Top]()_
-
 <a id="C"></a>
-## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
-
+  
+## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan  
+  
 OMB will issue revised IDC reporting instructions that describe how agencies shall submit their self-assessment and plan using the below template. Each element of the Common Baseline will be evaluated, along with accompanying evidence and steps to close the incompletely addressed areas. 
 
 ![Table for Baseline Template](https://cloud.githubusercontent.com/assets/633088/7393646/f3b8f482-ee5c-11e4-9da4-21392f509d2e.png) 
 
 _[Return to the Top]()_
-
 <a id="D"></a>
-## Attachment D: Fiscal Year (FY) 2015 PortfolioStat
-
+  
+## Attachment D: Fiscal Year (FY) 2015 PortfolioStat  
+  
 This Attachment describes changes to the PortfolioStat process used in FY 2015, including reporting requirements for agencies. This attachment also describes the goals and topics which agencies and OMB will address through the FY2015 PortfolioStat process.
 
 PortfolioStat <sup>[24](#footnote-24)</sup>  was established in FY 2012 to assess the maturity of Federal IT portfolio management, consolidate and eliminate duplicative spending on Commodity IT<sup>[25](#footnote-25)</sup>,  and improve agency processes to drive mission and customer-focused IT solutions. PortfolioStat is an evidence-based, data-driven review of agency IT portfolio management with agency leadership that continues to drive significant cost savings and efficiencies. To date, agencies have saved over $2.59 billion<sup>[26](#footnote-26)</sup>,  exceeding the $2.5 billion in savings opportunities identified in the original FY 2012 PortfolioStat sessions.
@@ -490,9 +495,10 @@ IPv6 Adoption                                              | Percent of operatio
   Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type
   
 _[Return to the Top]()_
+  <a id="E"></a>
   
-##<a id="E"></a>Attachment E: Investment and Portfolio Management Maturity Framework 
-
+## Attachment E: Investment and Portfolio Management Maturity Framework   
+  
 When conducting TechStat reviews, PortfolioStat reviews, or evaluating investments related to High Impact Programs, agencies shall use the following framework for describing investment and portfolio management maturity with OMB. These scores may be compared or aggregated across bureaus, agencies, or government-wide to provide a summary of overall IT management maturity. This model may be updated over time as common root causes of implementation challenges or other common management issues are identified.
 
 Agencies shall evaluate their performance in each of the following areas by comparing their performance to a set of criteria provided by OMB describing performance at three levels: (1) "Reacting", (2) "Implementing", and (3) "Optimizing". More information will be provided as a part of the PortfolioStat process.
