@@ -216,7 +216,6 @@ OMB FDCCI Guidance[^14], which was issued in March 2012, outlined the goals, res
 3. Government-Wide Software Purchasing Program. OMB established the Category Management initiative[^18] in December 2014. The General Services Administration (GSA), in collaboration with OMB, shall create, and allow agencies access to, government-wide enterprise software licenses through new awards as part of category management, a practice adopted by industry where spending is managed by experts who promote best practices and help agencies avoid unnecessary duplicative spending and activities. These awards shall, at a minimum, allow for the purchase of a license agreement that is available for use by all Executive agencies[^19].
 
 _[Return to the Top]()_
-<a id="A"></a>
 
 ## Attachment A: Common Baseline for IT Management and CIO Assignment Plan
 
@@ -374,8 +373,6 @@ Related statutory language from FITARA:
 
 
 _[Return to the Top]()_
-<a id="B"></a>
-
 ## Attachment B: Definitions of Terms for the Purposes of this Guidance
 
 **Agency CIO** - The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in [Section 20 of OMB Circular A-11](https://www.whitehouse.gov/sites/default/files/omb/assets/a11_current_year/s20.pdf). (Contrast with ‘bureau CIO’)
@@ -404,7 +401,6 @@ D. The term “information technology” does not include any equipment that is 
 **Interagency Agreement** - A written agreement entered into between two Federal agencies that specifies the goods to be furnished or tasks to be accomplished by one agency (the servicing agency) in support of the other (the requesting agency), including assisted acquisitions as described in OMB Memorandum: Improving the Management and use of Interagency Acquisitions[^22] and other cases described in FAR Part 17.[^23] In the case of agreements that contain IT resources, the requesting agency’s CIO shall be responsible for reviewing the Inter-agency Agreement as described in the Common Baseline.
 
 _[Return to the Top]()_
-<a id="C"></a>
 
 ## Attachment C: Template for Agency Common Baseline Self-Assessment and Plan
 
@@ -413,7 +409,6 @@ OMB will issue revised IDC reporting instructions that describe how agencies sha
 ![Table for Baseline Template](https://cloud.githubusercontent.com/assets/633088/7393646/f3b8f482-ee5c-11e4-9da4-21392f509d2e.png)
 
 _[Return to the Top]()_
-<a id="D"></a>
 
 ## Attachment D: Fiscal Year (FY) 2015 PortfolioStat
 
@@ -489,7 +484,6 @@ IPv6 Adoption                       | Percent of operational “Internet Protoco
  Security Incidents | Number of information security incidents reported to the United States Computer Emergency Readiness Team (US-CERT), by type
 
 _[Return to the Top]()_
- <a id="E"></a>
 
 ## Attachment E: Investment and Portfolio Management Maturity Framework
 
