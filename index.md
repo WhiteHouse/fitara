@@ -368,11 +368,10 @@ Related statutory language from FITARA:
 
 ### Summary of Common Baseline
 
-
-<img src="https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png" width=100%>
-
+![Common baseline for IT Management](https://cloud.githubusercontent.com/assets/633088/7393643/ee592002-ee5c-11e4-8fdf-0b5fa22ee3aa.png)
 
 _[Return to the Top]()_
+
 ## Attachment B: Definitions of Terms for the Purposes of this Guidance
 
 **Agency CIO** - The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in [Section 20 of OMB Circular A-11](https://www.whitehouse.gov/sites/default/files/omb/assets/a11_current_year/s20.pdf). (Contrast with ‘bureau CIO’)
