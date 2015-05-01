@@ -6,7 +6,7 @@ filename: index.md
 title: FITARA
 ---
 ###Sections and Attachments
-- [Introduction]("")
+- [Introduction](#)
 - [Timeframe and Instructions for Public Feedback](#timeframe)
 - [Frequently Asked Questions (FAQ)](#faq)
 - [Main Body of Proposed Guidance](#mainbody)
