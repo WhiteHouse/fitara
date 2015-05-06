@@ -252,9 +252,9 @@ The Department of Defense (DOD), the Intelligence Community, and portions of oth
 ##### CIO role in budget request
 
  - D1. *CIO Role/Responsibility*: CIO reviews and approves major IT investment portion of budget request. Agency budget justification materials in their initial budget submission to OMB shall include a statement that affirms:
-  - the CIO has reviewed and approves the major IT investments portion of this budget request;
-  - the CFO and CIO jointly affirm that the CIO had a significant role in reviewing planned IT support for major program objectives and significant increases and decreases in IT resources; and
-  - the IT Portfolio (formerly Exhibit 53) includes appropriate estimates of all IT resources included in the budget request.
+  -- the CIO has reviewed and approves the major IT investments portion of this budget request;
+  -- the CFO and CIO jointly affirm that the CIO had a significant role in reviewing planned IT support for major program objectives and significant increases and decreases in IT resources; and
+  -- the IT Portfolio (formerly Exhibit 53) includes appropriate estimates of all IT resources included in the budget request.
  - D2. *CXO Role/Responsibility*: CIO and CFO Certify IT Portfolio. The CFO shall work with the CIO to establish the affirmations in D1.
  - *Statutory Language*:
 BUDGET FORMULATION.—The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following:‘(i) That the Chief Information Officer of each covered agency … approve the information technology budget request of the covered agency. 40 U.S.C. 11319 (b)(1)(B)(i)
@@ -288,10 +288,10 @@ BUDGET FORMULATION.—The Director of the Office of Management and Budget shall 
 
  - I1. *CIO Role/Responsibility*: Shared acquisition and procurement responsibilities. The CIO reviews all cost estimates of IT related costs and ensures all acquisition strategies and acquisition plans that include IT apply adequate incremental development principles (see definitions).
  - I2. *CXO Role/Responsibility*: Shared acquisition and procurement responsibilities. The CAO, in consultation with the CIO and—where appropriate—CFO, shall ensure there is an agency-wide process to ensure all acquisitions that include any IT:
-  - are led by personnel with appropriate federal acquisition certifications (FACs),20 including specialized IT certifications as appropriate;
-  - are reviewed for opportunities to leverage acquisition initiatives such as shared services, category management, strategic sourcing, and incremental or modular contracting and use such approaches as appropriate;
-  - are supported by cost estimates that have been reviewed by the CIO; and
-  - adequately implement incremental development.
+  -- are led by personnel with appropriate federal acquisition certifications (FACs),20 including specialized IT certifications as appropriate;
+  -- are reviewed for opportunities to leverage acquisition initiatives such as shared services, category management, strategic sourcing, and incremental or modular contracting and use such approaches as appropriate;
+  -- are supported by cost estimates that have been reviewed by the CIO; and
+  -- adequately implement incremental development.
  - *Statutory Language*: The head of each covered agency … shall ensure that the Chief Information Officer of the agency has a significant role in—(i) the decision processes for all annual and multi-year planning, programming, budgeting, and execution decisions… and (ii) the management, governance and oversight processes related to [IT]… 40 U.S.C. 11319(b)(1)(A) The Director of the Office of Management and Budget shall require in the annual information technology capital planning guidance of the Office of Management and Budget the following: That the Chief Information Officer of each covered agency certify that information technology investments are adequately implementing incremental development, as defined in capital planning guidance issued by the Office of Management and Budget. 40 U.S.C. 11319
 
 ##### CIO role in recommending modification, termination, or pause of IT projects or initiatives
@@ -301,13 +301,11 @@ BUDGET FORMULATION.—The Director of the Office of Management and Budget shall 
 
 ##### CIO review and approval of acquisitions
 
- - K1. *CIO Role/Responsibility*: CIO review and approval of acquisition strategy and acquisition plan. Agencies shall not approve an acquisition strategy or acquisition plan (as described in FAR Part 7)21 or interagency agreement (such as those used to support purchases through another agency) that includes IT without review and approval by the agency CIO.
-  - The CIO shall primarily consider the following factors when reviewing acquisition strategies and acquisition plans:
-   - Appropriateness of contract type;
-   - Appropriateness of IT related portions of statement of needs or statement of work;
-   - Appropriateness of above with respect to the mission and business objectives supported by the IT strategic plan; and
-   - Alignment with mission and program objectives in consultation with program leadership.
-
+ - K1. *CIO Role/Responsibility*: CIO review and approval of acquisition strategy and acquisition plan. Agencies shall not approve an acquisition strategy or acquisition plan (as described in FAR Part 7)21 or interagency agreement (such as those used to support purchases through another agency) that includes IT without review and approval by the agency CIO. The CIO shall primarily consider the following factors when reviewing acquisition strategies and acquisition plans:
+  -- Appropriateness of contract type;
+  -- Appropriateness of IT related portions of statement of needs or statement of work;
+  -- Appropriateness of above with respect to the mission and business objectives supported by the IT strategic plan; and
+  -- Alignment with mission and program objectives in consultation with program leadership.
  - K2. *CXO Role/Responsibility*: CAO is responsible for ensuring contract actions that contain IT are consistent with CIO-approved acquisition strategies and plans. The CAO shall indicate to the CIO when planned acquisition strategies and acquisition plans include IT. The CAO shall ensure the agency shall initiate no contract actions or interagency agreements that include IT unless they are reviewed and approved by the CIO or are consistent with the acquisition strategy and acquisition plan previously approved by the CIO. Similar process for contract modifications. CAO shall also ensure that no modifications that make substantial changes to the scope of a significant contract are approved that are inconsistent with the acquisition strategy and acquisition plan previously approved by the CIO unless the modification is reviewed and approved by the CIO.
  - *Statutory Language*: IN GENERAL.—A covered agency other than the Department of Defense— (I) may not enter into a contract or other agreement for information technology or information technology services, unless the contract or other agreement has been reviewed and approved by the Chief Information Officer of the agency; 40 U.S.C. § 11319 (b)(1)(C)(i)(I)
 
@@ -333,12 +331,12 @@ BUDGET FORMULATION.—The Director of the Office of Management and Budget shall 
 ##### Bureau IT Leadership Directory
 
  - O1. *CIO Role/Responsibility*: Bureau IT Leadership Directory. CIO and CHCO will conduct a survey of all bureau CIOs and CIO and CHCO will jointly publish a dataset identifying all bureau officials with title of CIO or duties of a CIO. This shall be posted as a public dataset based on instructions in the IDC. The report will identify for each:
-  - Employment type (e.g. GS, SES, SL, ST, etc.)
-  - Type of appointment (e.g. career, appointed, etc.)
-  - Other responsibilities (e.g. full-time CIO or combination CIO/CFO)
-  - Evaluation “rating official” (e.g. bureau head, other official)
-  - Evaluation “reviewing official” (if used)
-  - Whether [agency] CIO identifies this bureau CIO as a “key bureau CIO” and thus requires the [agency] CIO to provide the rating official input into the agency-wide critical element(s) described in N1.
+  -- Employment type (e.g. GS, SES, SL, ST, etc.)
+  -- Type of appointment (e.g. career, appointed, etc.)
+  -- Other responsibilities (e.g. full-time CIO or combination CIO/CFO)
+  -- Evaluation “rating official” (e.g. bureau head, other official)
+  -- Evaluation “reviewing official” (if used)
+  -- Whether [agency] CIO identifies this bureau CIO as a “key bureau CIO” and thus requires the [agency] CIO to provide the rating official input into the agency-wide critical element(s) described in N1.
  - O2. *CXO Role/Responsibility*: Bureau IT Leadership Directory. CHCO will work with CIO to develop the Bureau IT Leadership Directory as described in O1.
  - *Statutory Language*: The Chief Information Officer of an agency…assesses the requirements established for agency personnel regarding knowledge and skill in information resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for information resources management; assesses the extent to which the positions and personnel at the executive level of the agency and the positions and personnel at management level of the agency below the executive level meet those requirements; 40 U.S.C. § 11315(c)(3) (Clinger-Cohen Act)
 
