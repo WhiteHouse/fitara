@@ -97,7 +97,7 @@ B. Acquisitions or interagency agreements that include information technology an
 
 C. Does not include grants to third parties which establish or support information technology not operated directly by the Federal Government.
 
-**This definition and this memorandum refer to the term “information technology,” which for the purposes of this memorandum is defined as:
+**This definition and this memorandum refer to the term “information technology,” which for the purposes of this memorandum is defined as:**
 
 A. Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency; where
 
