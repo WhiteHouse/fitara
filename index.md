@@ -321,8 +321,8 @@ BUDGET FORMULATION.—The Director of the Office of Management and Budget shall 
 
 ##### CIO approves new bureau CIOs
 
- - M1. *CIO Role/Responsibility*: CIO approves new bureau CIOs. The CIO shall be involved in the recruitment and shall approve the selection of any new bureau CIO (includes bureau leadership with CIO duties but not title—see definitions).
- - *Statutory Language*: PERSONNEL-RELATED AUTHORITY.—Notwithstanding any other provision of law, for each covered agency … the Chief Information Officer of the covered agency shall approve the appointment of any other employee with the title of Chief Information Officer, or who functions in the capacity of a Chief Information Officer, for any component organization within the covered agency. 40 U.S.C. 11319 (b)(2)
+ - M1. *CIO Role/Responsibility*: CIO approves bureau CIOs. The CIO shall be involved in the recruitment and shall approve the selection of any new bureau CIO (includes bureau leadership with CIO duties but not title—see definitions). The title and responsibilities of current bureau CIOs may be designated or transferred to other agency personnel by the agency head or his or her designee as appropriate, and such decisions may take into consideration recommendations from the agency CIO.
+ - *Statutory Language*: PERSONNEL-RELATED AUTHORITY.—Notwithstanding any other provision of law, for each covered agency … the Chief Information Officer of the covered agency shall approve the appointment of any other employee with the title of Chief Information Officer, or who functions in the capacity of a Chief Information Officer, for any component organization within the covered agency. 40 U.S.C. 11319 (b)(2) Delegation of authority... (b) In addition to the authority to delegate conferred by other law, the head of an agency may delegate to subordinate officials the authority vested in him-(1) by law to take final action on matters pertaining to the employment, direction, and general administration of personnel under his agency ... 5 U.S.C. 302 (b)(1)
 
 ##### CIO role in ongoing bureau CIOs’ evaluations
 
