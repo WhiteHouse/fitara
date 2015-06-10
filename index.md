@@ -42,7 +42,7 @@ Other legislation, primarily the Clinger-Cohen Act of 1996 and the E-Government 
 _[Return to the Top]()_
 
 
-## OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology Resources
+## OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology
 
 ### Purpose
 The purpose of this memorandum is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)[^1] and related information technology (IT) management practices.
