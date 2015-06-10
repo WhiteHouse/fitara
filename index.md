@@ -6,11 +6,7 @@ filename: index.md
 title: FITARA
 ---
 
-### A New Foundation for Technology Management
 
-_June 10, 2015_ It has been over four months since I was appointed the U.S. Chief Information Officer (CIO). In that time I have come to appreciate both the complexity of Federal information technology (IT) as well as the unprecedented opportunity of technology to accelerate the quality and timeliness of services delivered to the American people...
-
-_Read more at [https://www.whitehouse.gov/omb/blog](Whitehouse.gov)..._
 
 ### Sections and Attachments
 
