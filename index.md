@@ -528,30 +528,30 @@ _[Return to the Top]()_
 
 Some requirements and objectives described throughout this document are related to forthcoming new policies or changes to existing guidance/instructions to be released later in FY2015, such as: 
 
-**Updates to OMB Circular A-130: Management of Federal Information Resources**
+#####Updates to OMB Circular A-130: Management of Federal Information Resources
 - Legislative Requirements Addressed: FISMA Modernization, overall IT management, governance and role of CIO, privacy, and information management	
 - Estimated Timeframe: December 2015
 
-**A-11 budget preparation requirements:**
+#####A-11 budget preparation requirements:
 - CIO/CFO statements in overall budget submission (OMB Justification) (Sections 25, 31, 51.3)
 - Section 55 capital planning and investment control reporting requirements (formerly Exhibit 53 and Exhibit 300)	
 - Legislative Requirements Addressed: FITARA Section 831: CIO Authorities
 - Estimated Timeframe: June 2015
 
-**E-Gov Integrated Data Collection (IDC) reporting instructions**
+#####E-Gov Integrated Data Collection (IDC) reporting instructions
 - Legislative Requirements Addressed: Reporting requirements throughout FITARA
 - Estimated Timeframe: June 2015 (New instructions to be published)
 
-**FITARA-related FSSI FAR case**
+#####FITARA-related FSSI FAR case
 - Legislative Requirements Addressed: FITARA Section 836: FSSI	
 - Estimated Timeframe: Opened February 2015, completion estimated in FY2016
 
-**OMB Circular A-123: Management’s Responsibility for Internal Controls**
+#####OMB Circular A-123: Management’s Responsibility for Internal Controls
 - Inclusion of IT management in material weaknesses identified in annual assurance statement.  	
 - Legislative Requirements Addressed: FITARA Section 831: CIO Authorities
 - Estimated Timeframe: June 2015
 
-**Data Center Optimization Policy**
+#####Data Center Optimization Policy
 - Legislative Requirements Addressed: FITARA Section 834: Data Center Consolidation
 - Estimated Timeframe: By end of FY2015
 
@@ -561,140 +561,140 @@ _[Return to the Top]()_
 
 The materials below summarize which portions of the above guidance address which sections of FITARA.
 
-#####1. CIO Authorities
+####1. CIO Authorities
 
-**Contract review**
+#####Contract review
 - Law:Section 831: CIO Authority Enhancements, Subsection (b)(1)(C)(i)(I)
 - Memo: Page 4: Implementation of the Common Baseline, Page 12: Attachment A (F1)
 
-**Reprogramming review**
+#####Reprogramming review
 - Law: Section 831: Subsection (b)(1)(C)(i)(II)
 - Memo: Page 4 and Page 11 (B1)
 
-**Adequate incremental development**
+#####Adequate incremental development
 - Law: Section 831: Subsection (b)(1)(B)(ii)	
 - Memo: Page 4 and Page 14 (M1)
 
-**Budget approval**
+#####Budget approval
 - Law: Section 831: Subsection (b)(1)(B)(i)
 - Memo: Page 4 and Page 11 (A1, C1)
 
-**Bureau CIO approval	Section 831:**
+#####Bureau CIO approval	Section 831:
 - Law: Subsection (b)(2)
 - Memo: Page 4 and Page 14-15 (N1, O1)
 
-**Other responsibilities**
+#####Other responsibilities
 - Law: Section 831: Subsection (b)(1)(C)(i)(III), Subsection (b)(1)(A)(i), Subsection (b)(1)(A)(ii)	
 - Memo: Page 4 and Pages 11-17
 
-#####2. Transparency
+####2. Transparency
 
-**Federal IT Dashboard**
+#####Federal IT Dashboard
 - Law: Section 832: Enhanced Transparency and Improved Risk Management in Information Technology Investments, Subsection (3)(3)(A)
 - Memo: Page 6: Transparency, Risk Management, Portfolio Review, and Reporting
 
-**Agency IT Dashboard data **
+#####Agency IT Dashboard data 
 - Law: Section 832: Subsection (3)(3)(B)(i)
 - Memo: Page 6
 
-**CIO Evaluations Guidance from OMB**
+#####CIO Evaluations Guidance from OMB
 - Law: Section 832: Subsection (3)(3)(B)(i)
 - Memo: Page 6
 
-**IT Dashboard Data Must Be Provided Bi-Annually**
+#####IT Dashboard Data Must Be Provided Bi-Annually
 - Law: Section 832: Subsection (3)(3)(B)(ii)
 - Memo: Page 6
 
-**Required Agency/Project Data Improvement Programs**
+#####Required Agency/Project Data Improvement Programs
 - Law: Section 832: Subsection (3)(3)(D)
 - Memo: Page 6
 
-**TechStat Trigger**
+#####TechStat Trigger
 - Law: Section 832: Subsection (4)
 - Memo: Page 7
 
-**TechStat Topics**
+#####TechStat Topics
 - Law: Section 832: Subsection (4)(A)
 - Memo: Page 7
 
-**OMB TechStat Reporting to Congress**
+#####OMB TechStat Reporting to Congress
 - Law: Section 832: Subsection (4)(B)
 - Memo: Page 7
 
-**DME Freeze One Year Post TechStat**
+#####DME Freeze One Year Post TechStat
 - Law: Section 832: Subsection (4)(D)
 - Memo: Page 7
 
-#####3. Portfolio Reviews
-**PortfolioStat**
+####3. Portfolio Reviews
+#####PortfolioStat
 - Law: Section 833: Portfolio Review, Subsection (c)(1)
 - Memo: Page 7: Transparency, Risk Management, Portfolio Review, and Reporting
 
-**PortfolioStat Process Requirements**
+#####PortfolioStat Process Requirements
 - Law: Section 833: Subsection (c)(1)
 - Memo: Page 7 and Page 21-24 _Attachment D: FY2015 PortfolioStat_
 
-**PortfolioStat Metrics, Cost Savings, and Avoidance**
+#####PortfolioStat Metrics, Cost Savings, and Avoidance
 - Law: Section 833: Subsection (c)(2)
 - Memo: Page 7-8 and _Attachment D_
 
-**PortfolioStat Annual Review**
+#####PortfolioStat Annual Review
 - Law: Section 833: Subsection (c)(3)
 - Memo: Page 8 and _Attachment D_
 
-**Quarterly Reports**
+#####Quarterly Reports
 - Law: Section 833: Subsection (c)(5)
 - Memo: Page 8 and _Attachment D_
 
-#####4. Data Center Consolidation Section
+####4. Data Center Consolidation Section
 
-**FDCCI**
+#####FDCCI
 - Law: Section 834: Federal Data Center Consolidation Initiative
 - Memo: Page 8: Federal Data Center Consolidation Initiative (FDCCI)
 
-**Agency Reporting**
+#####Agency Reporting
 - Law: Section 834(b)(1)(A)
 - Memo: Page 8
 
-**Agency Annual Inventory**
+#####Agency Annual Inventory
 - Law: Section 834(b)(1)(A)(i)
 - Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
-**Agency Annual Strategy**
+#####Agency Annual Strategy
 - Law: Section 834(b)(1)(A)(ii)
 - Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
-**Agency Annual Statement**
+#####Agency Annual Statement
 - Law: Section 834(b)(1)(D)
 - Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
-**Agency Quarterly Updates**
+#####Agency Quarterly Updates
 - Law: Section 834(b)(1)(E)(i)(II)
 - Memo: Page 8
 
-**OMB Reporting and Requirements**
+#####OMB Reporting and Requirements
 - Law: Section 834(b)(2)
 - Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
-**GAO Review**
+#####GAO Review
 - Law: Section 834(b)(4)
 - Memo: Not specified
 
-**Cybersecurity and Cloud Computing**
+#####Cybersecurity and Cloud Computing
 - Law: Section 834(c)
 - Memo: Not specified
 
-#####5-7. Acquisition/Procurement Sections
+####5-7. Acquisition/Procurement Sections
 
-**IT Acquisition Cadres**
+#####IT Acquisition Cadres
 - Law: Section 835: Expansion of Training and Use of Information Technology Cadres
 - Memo: Page 9: Information Technology Acquisition Requirements
 
-**FSSI Strategic Sourcing**
+#####FSSI Strategic Sourcing
 - Law: Section 836: Maximizing the Benefit of the Federal Strategic Sourcing Initiative
 - Memo: Page 9: Information Technology Acquisition Requirements
 
-**Governmentwide Software Purchasing Program**
+#####Governmentwide Software Purchasing Program
 - Law: Section 837: Governmentwide Software Purchasing Program
 - Memo: Page 9: Information Technology Acquisition Requirements
 
