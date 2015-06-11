@@ -10,7 +10,7 @@ title: FITARA
 
 _June 10, 2015_ It has been over four months since I was appointed the U.S. Chief Information Officer (CIO). In that time I have come to appreciate both the complexity of Federal information technology (IT) as well as the unprecedented opportunity of technology to accelerate the quality and timeliness of services delivered to the American people...
 
-_Read more at [https://www.whitehouse.gov/blog/2015/06/10/new-foundation-technology-management](Whitehouse.gov)..._
+_Read more at [Whitehouse.gov](https://www.whitehouse.gov/blog/2015/06/10/new-foundation-technology-management)..._
 
 
 ### Sections and Attachments
@@ -20,16 +20,16 @@ _Read more at [https://www.whitehouse.gov/blog/2015/06/10/new-foundation-technol
 
 ## Frequently Asked Questions (FAQ)
 1. **What is OMB planning to do to make sure agencies successfully and completely implement these requirements?**
-OMB will work with agencies to ensure that they are meeting the Common Baseline in Section A of the proposed guidance through existing oversight methods including PortfolioStat. In addition, our proposed guidance states that agencies will post their plans to meet the Common Baseline publicly, helping to enable Congressional and public oversight.
+OMB will work with agencies to ensure that they are meeting the Common Baseline in Section A of the memorandum through existing oversight methods including PortfolioStat. In addition, our memorandum states that agencies will post their plans to meet the Common Baseline publicly, helping to enable Congressional and public oversight.
 
-2. **Would this proposed guidance make it more difficult for mission programs to select software and solutions that meet their needs?**
-This proposed guidance would require agencies to ensure that their CIO and other management officials have a common baseline of roles and responsibilities. For some agencies, these responsibilities may include greater involvement of the CIO in planning and execution decisions regarding IT used by programs or components outside of the Office of the CIO. Each agency should establish appropriate processes that work in its environment to meet the Common Baseline of roles and responsibilities. In the proposed guidance, a key part of the CIO’s role is to be a partner in supporting programs’ efficient and effective accomplishment of their missions through the use of IT. To succeed in this, it is critical that CIOs understand the program environments that are supported by IT resources. This includes greater involvement with program governance boards and planning processes, as well as greater program inclusion of the CIO in acquisition and requirements planning—as described in the Common Baseline. At its core, this proposed guidance seeks to achieve greater agency CIO accountability for the agency’s use of IT resources through increased collaboration and communication between the CIO and the full scope of agency programs and units.
+2. **Would this memorandum make it more difficult for mission programs to select software and solutions that meet their needs?**
+This memorandum would require agencies to ensure that their CIO and other management officials have a common baseline of roles and responsibilities. For some agencies, these responsibilities may include greater involvement of the CIO in planning and execution decisions regarding IT used by programs or components outside of the Office of the CIO. Each agency should establish appropriate processes that work in its environment to meet the Common Baseline of roles and responsibilities. In the memorandum, a key part of the CIO’s role is to be a partner in supporting programs’ efficient and effective accomplishment of their missions through the use of IT. To succeed in this, it is critical that CIOs understand the program environments that are supported by IT resources. This includes greater involvement with program governance boards and planning processes, as well as greater program inclusion of the CIO in acquisition and requirements planning—as described in the Common Baseline. At its core, this memorandum seeks to achieve greater agency CIO accountability for the agency’s use of IT resources through increased collaboration and communication between the CIO and the full scope of agency programs and units.
 
-3. **The CIO shouldn’t be in charge of how programs manage their resources; instead, the program leadership should maintain this control. How is that reflected in this proposed guidance?**
-Through TechStat sessions, PortfolioStat sessions, and CyberStat sessions, OMB has seen agencies struggle with successful implementation of IT projects that lack close coordination between the program leaders and the CIO. Strengthening these relationships and strengthening the collaboration between program leadership and the CIO’s organization is a major objective of this proposed guidance.
+3. **The CIO shouldn’t be in charge of how programs manage their resources; instead, the program leadership should maintain this control. How is that reflected in this memorandum?**
+Through TechStat sessions, PortfolioStat sessions, and CyberStat sessions, OMB has seen agencies struggle with successful implementation of IT projects that lack close coordination between the program leaders and the CIO. Strengthening these relationships and strengthening the collaboration between program leadership and the CIO’s organization is a major objective of this memorandum.
 
 4. **Won’t this make today’s CIOs a bottleneck and damage agencies’ ability to deliver their programs?**
-Through extensive outreach and collaboration, we believe we have developed proposed guidance that is applicable to all agencies in a way that gives them flexibility to implement the law’s requirements and does not create unnecessary bottlenecks. This was an initial primary concern of many CIOs and agency executives. In response, we created the CIO assignment plan to allow the CIO to assign, in a rules-based manner, certain responsibilities to other people in their department. This keeps the accountability with the CIO but allows each agency to realistically meet the law’s requirements while minimizing the chance for bottlenecks.
+Through extensive outreach and collaboration, we believe we have developed memorandum that is applicable to all agencies in a way that gives them flexibility to implement the law’s requirements and does not create unnecessary bottlenecks. This was an initial primary concern of many CIOs and agency executives. In response, we created the CIO assignment plan to allow the CIO to assign, in a rules-based manner, certain responsibilities to other people in their department. This keeps the accountability with the CIO but allows each agency to realistically meet the law’s requirements while minimizing the chance for bottlenecks.
 
 5. **The new processes described in the common baseline are either redundant with existing agency processes or not aligned with how certain processes function today. How should agencies implement these in their existing structures?**
 In some cases and in some agencies, the roles and responsibilities identified in the Common Baseline may be implemented through existing practices, as long as those practices completely deliver the requirements described in the Common Baseline. However, in other instances, agency practices may need to be revised or strengthened, and agencies may need to establish new practices.
@@ -37,7 +37,7 @@ In some cases and in some agencies, the roles and responsibilities identified in
 6. **Can the CIO overrule an agency head such as a Secretary on decisions about IT?**
 CIOs, like other senior management officials, work within the organizational structures of their agencies. This guidance emphasizes the role and responsibilities of the CIO and other management officials in that context.
 
-7. **Why does the proposed guidance include requirements not described in the FITARA law?**
+7. **Why does the memorandum include requirements not described in the FITARA law?**
 Other legislation, primarily the Clinger-Cohen Act of 1996 and the E-Government Act of 2002, require the Director of OMB to issue management guidance for information technology and electronic government activities across the government. Moreover, while the FITARA law contains some specific requirements, it also contains more general requirements that require interpretation for successful FITARA implementation.
 
 _[Return to the Top]()_
@@ -98,7 +98,7 @@ B. Acquisitions or interagency agreements that include information technology an
 
 C. Does not include grants to third parties which establish or support information technology not operated directly by the Federal Government.
 
-**This definition and this memorandum refer to the term “information technology,” which for the purposes of this memorandum is defined as:
+This definition and this memorandum refer to the term **“information technology,”** which for the purposes of this memorandum is defined as:
 
 A. Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency; where
 
@@ -135,7 +135,7 @@ To establish consistency across IT management and acquisition policies, OMB Circ
 
 4. The following additional actions will be taken to support agencies’ implementation of the Common Baseline:
 
-  -- **Federal CIO Council (the Council) shall develop and share on-going support and tools.** Through the end of fiscal year (FY) 2016, the Council will dedicate time in its meetings to discuss current topics related to the implementation of the Common Baseline at least once every quarter. The Council should consult with the CFO Council in the development of materials to support changes related to the Common Baseline across management domains. The Council will also assist agencies in implementing the Common Baseline by sharing examples of agency governance processes and IT policies on a public website at https://management.cio.gov.
+  -- **Federal CIO Council (the Council) shall develop and share on-going support and tools.** Through the end of fiscal year (FY) 2016, the Council will dedicate time in its meetings to discuss current topics related to the implementation of the Common Baseline at least once every quarter. The Council should consult with the CFO Council in the development of materials to support changes related to the Common Baseline across management domains. The Council will also assist agencies in implementing the Common Baseline by sharing examples of agency governance processes and IT policies on a public website at [https://management.cio.gov](https://management.cio.gov).
 
   -- **Support President’s Management Council (PMC) follow-up.** By June 30, 2015, the PMC will select three members from the Council to provide an update on governmentwide implementation of FITARA on a quarterly basis through the end of FY2016. These updates will improve each agency’s awareness of policies and processes which have worked well at other agencies.
 
@@ -356,8 +356,11 @@ _[Return to the Top]()_
 **Information Technology** - As described in Section A above:
 
 A. Any services or equipment, or interconnected system(s) or subsystem(s) of equipment, that are used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the agency; where
+
 B. such services or equipment are 'used by an agency' if used by the agency directly or if used by a contractor under a contract with the agency that requires either use of the services or equipment or requires use of the services or equipment to a significant extent in the performance of a service or the furnishing of a product.
+
 C. The term “information technology” includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including provisioned services such as cloud computing and support services that support any point of the lifecycle of the equipment or service), and related resources.
+
 D. The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract that does not require use of the equipment.
 
 **IT Resources** - As described in Section A above: All agency budgetary resources, personnel, equipment, facilities, or services that are primarily used in the management, operation, acquisition, disposition, and transformation, or other activity related to the lifecycle of information technology; acquisitions or interagency agreements that include information technology and the services or equipment provided by such acquisitions or interagency agreements but does not include grants to third parties which establish or support information technology not operated directly by the Federal Government.
@@ -407,7 +410,7 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
 
   -- **World-Class Customer Service.** Agencies shall discuss how their portfolio management practices emphasize the customer-centric themes of the U.S. Digital Services Playbook,[^30] OMB’s capital planning and investment control guidance,[^31] and the Smarter IT Cross-Agency Priority (CAP) Goal.[^32] Agencies should describe where in their policies the following are implemented: the Playbook’s “Understand what people need” play, the capital planning guidance requirement for major investments to measure customer satisfaction performance metrics, and the Smarter IT CAP Goal’s focus on improving outcomes and customer satisfaction with Federal services.
 
-  -- **Open Data.** Experts have calculated that the potential economic benefits of open data are in the trillions of dollars.[^33]  The Federal government has made significant strides in opening up data to drive economic growth. Currently there are over 117,000 data sets available on data.gov [http://www.data.gov/|www.data.gov]. As a next step, agencies should improve the quality and types of datasets. Agencies should continue to evaluate their enterprise data inventory, conduct outreach to understand the users of their data, improve customer feedback mechanisms, and release datasets—subject to privacy, confidentiality, security, or other valid restrictions.
+  -- **Open Data.** Experts have calculated that the potential economic benefits of open data are in the trillions of dollars.[^33]  The Federal government has made significant strides in opening up data to drive economic growth. Currently there are over 117,000 data sets available on data.gov [http://www.data.gov/](www.data.gov). As a next step, agencies should improve the quality and types of datasets. Agencies should continue to evaluate their enterprise data inventory, conduct outreach to understand the users of their data, improve customer feedback mechanisms, and release datasets—subject to privacy, confidentiality, security, or other valid restrictions.
 
   -- **Streamlining reporting.** OMB will continue to seek opportunities to reduce agency burden through revising reporting requirements and improving reporting channels through the ITDB and IDC as well as work with agencies to develop opportunities to improve the timeliness and reliability of reported ITDB data.
 
@@ -500,24 +503,24 @@ In February 2015, OMB added the following additional requirements for civilian C
 
 ####Additional FITARA Related Sections for Agency Human Capital Plan
 
-  **IT Acquisition Cadres:** Has your agency developed an information technology (IT) acquisition cadre or used a memoranda of understanding with other agencies that have such cadres or personnel with experience relevant to your agency’s IT acquisition needs?   Select Yes or No
-  If yes, please elaborate.  If no, please explain your agency’s plans for developing an IT acquisition cadre or explain why you are not developing an IT acquisition cadre.
-  
-  **Personnel Development:** Has your agency taken steps to develop personnel assigned to IT acquisitions, including cross-functional training of acquisition IT and program personnel?    Select Yes or No
-  If yes, please elaborate.  If no, please explain if and how your agency plans to develop personnel assigned to IT acquisitions.
-  
-  **Specialized Career Path for IT Program Managers:** Has your agency utilized the specialized career path for IT program managers as designated by OPM?    Select Yes or No 
-  Has your agency strengthened IT program management?    Select Yes or No
-  If yes, how many IT program managers have you designated? If no, does your agency plan to utilize the specialized career path? When? If your agency has strengthened IT program management, please explain how it has done so.  If your agency has not strengthened IT program management yet, please explain if it plans to do so and how.  If it is not planning to strengthen IT program management, please explain why.
-  
-  **Direct Hire Authority:** Has your agency utilized direct hire authority relating to personnel assigned to IT acquisitions?   Select Yes or No
-  If yes, how many times and for what job series has your agency utilized direct hire authority in this area.  If no, please explain your agency’s plans to utilize direct hire authority in this area or explain why it does not plan to use this authority.
-  
-  **Peer Reviews:** Has your agency conducted peer reviews of IT acquisitions?   Select Yes or No
-  If yes, please elaborate on the number and types of IT acquisitions reviewed.  If no, please explain your agency’s plans to conduct peer reviews of IT acquisition or explain why it does not plan to conduct peer reviews of IT acquisitions.
-  
-  **Pilot Programs:** Has your agency utilized pilot programs of innovative approaches to developing the IT acquisition workforce, such as industry-government rotations?   Select Yes or No
-  If yes, please explain what pilot program you have used or are using.  If no, please explain your agency’s plans to utilize pilot programs of innovative approaches to developing the IT acquisition workforce or why it does not plan to utilize these programs.
+**IT Acquisition Cadres:** Has your agency developed an information technology (IT) acquisition cadre or used a memoranda of understanding with other agencies that have such cadres or personnel with experience relevant to your agency’s IT acquisition needs?   Select Yes or No
+If yes, please elaborate.  If no, please explain your agency’s plans for developing an IT acquisition cadre or explain why you are not developing an IT acquisition cadre.
+
+**Personnel Development:** Has your agency taken steps to develop personnel assigned to IT acquisitions, including cross-functional training of acquisition IT and program personnel?    Select Yes or No
+If yes, please elaborate.  If no, please explain if and how your agency plans to develop personnel assigned to IT acquisitions.
+
+**Specialized Career Path for IT Program Managers:** Has your agency utilized the specialized career path for IT program managers as designated by OPM?    Select Yes or No 
+Has your agency strengthened IT program management?    Select Yes or No
+If yes, how many IT program managers have you designated? If no, does your agency plan to utilize the specialized career path? When? If your agency has strengthened IT program management, please explain how it has done so.  If your agency has not strengthened IT program management yet, please explain if it plans to do so and how.  If it is not planning to strengthen IT program management, please explain why.
+
+**Direct Hire Authority:** Has your agency utilized direct hire authority relating to personnel assigned to IT acquisitions?   Select Yes or No
+If yes, how many times and for what job series has your agency utilized direct hire authority in this area.  If no, please explain your agency’s plans to utilize direct hire authority in this area or explain why it does not plan to use this authority.
+
+**Peer Reviews:** Has your agency conducted peer reviews of IT acquisitions?   Select Yes or No
+If yes, please elaborate on the number and types of IT acquisitions reviewed.  If no, please explain your agency’s plans to conduct peer reviews of IT acquisition or explain why it does not plan to conduct peer reviews of IT acquisitions.
+
+**Pilot Programs:** Has your agency utilized pilot programs of innovative approaches to developing the IT acquisition workforce, such as industry-government rotations?   Select Yes or No
+If yes, please explain what pilot program you have used or are using.  If no, please explain your agency’s plans to utilize pilot programs of innovative approaches to developing the IT acquisition workforce or why it does not plan to utilize these programs.
 
 _[Return to the Top]()_
 
@@ -526,31 +529,31 @@ _[Return to the Top]()_
 Some requirements and objectives described throughout this document are related to forthcoming new policies or changes to existing guidance/instructions to be released later in FY2015, such as: 
 
 **Updates to OMB Circular A-130: Management of Federal Information Resources**
-Legislative Requirements Addressed: FISMA Modernization, overall IT management, governance and role of CIO, privacy, and information management	
-Estimated Timeframe: December 2015
+- Legislative Requirements Addressed: FISMA Modernization, overall IT management, governance and role of CIO, privacy, and information management	
+- Estimated Timeframe: December 2015
 
 **A-11 budget preparation requirements:**
-CIO/CFO statements in overall budget submission (OMB Justification) (Sections 25, 31, 51.3)
-Section 55 capital planning and investment control reporting requirements (formerly Exhibit 53 and Exhibit 300)	
-Legislative Requirements Addressed: FITARA Section 831: CIO Authorities
-Estimated Timeframe: June 2015
+- CIO/CFO statements in overall budget submission (OMB Justification) (Sections 25, 31, 51.3)
+- Section 55 capital planning and investment control reporting requirements (formerly Exhibit 53 and Exhibit 300)	
+- Legislative Requirements Addressed: FITARA Section 831: CIO Authorities
+- Estimated Timeframe: June 2015
 
 **E-Gov Integrated Data Collection (IDC) reporting instructions**
-Legislative Requirements Addressed: Reporting requirements throughout FITARA
-Estimated Timeframe: June 2015 (New instructions to be published)
+- Legislative Requirements Addressed: Reporting requirements throughout FITARA
+- Estimated Timeframe: June 2015 (New instructions to be published)
 
 **FITARA-related FSSI FAR case**
-Legislative Requirements Addressed: FITARA Section 836: FSSI	
-Estimated Timeframe: Opened February 2015, completion estimated in FY2016
+- Legislative Requirements Addressed: FITARA Section 836: FSSI	
+- Estimated Timeframe: Opened February 2015, completion estimated in FY2016
 
 **OMB Circular A-123: Management’s Responsibility for Internal Controls**
-Inclusion of IT management in material weaknesses identified in annual assurance statement.  	
-Legislative Requirements Addressed: FITARA Section 831: CIO Authorities
-Estimated Timeframe: June 2015
+- Inclusion of IT management in material weaknesses identified in annual assurance statement.  	
+- Legislative Requirements Addressed: FITARA Section 831: CIO Authorities
+- Estimated Timeframe: June 2015
 
 **Data Center Optimization Policy**
-Legislative Requirements Addressed: FITARA Section 834: Data Center Consolidation
-Estimated Timeframe: By end of FY2015
+- Legislative Requirements Addressed: FITARA Section 834: Data Center Consolidation
+- Estimated Timeframe: By end of FY2015
 
 _[Return to the Top]()_
 
@@ -561,139 +564,139 @@ The materials below summarize which portions of the above guidance address which
 #####1. CIO Authorities
 
 **Contract review**
-Law:Section 831: CIO Authority Enhancements, Subsection (b)(1)(C)(i)(I)
-Memo: Page 4: Implementation of the Common Baseline, Page 12: Attachment A (F1)
+- Law:Section 831: CIO Authority Enhancements, Subsection (b)(1)(C)(i)(I)
+- Memo: Page 4: Implementation of the Common Baseline, Page 12: Attachment A (F1)
 
 **Reprogramming review**
-Law: Section 831: Subsection (b)(1)(C)(i)(II)
-Memo: Page 4 and Page 11 (B1)
+- Law: Section 831: Subsection (b)(1)(C)(i)(II)
+- Memo: Page 4 and Page 11 (B1)
 
 **Adequate incremental development**
-Law: Section 831: Subsection (b)(1)(B)(ii)	
-Memo: Page 4 and Page 14 (M1)
+- Law: Section 831: Subsection (b)(1)(B)(ii)	
+- Memo: Page 4 and Page 14 (M1)
 
 **Budget approval**
-Law: Section 831: Subsection (b)(1)(B)(i)
-Memo: Page 4 and Page 11 (A1, C1)
+- Law: Section 831: Subsection (b)(1)(B)(i)
+- Memo: Page 4 and Page 11 (A1, C1)
 
 **Bureau CIO approval	Section 831:**
-Law: Subsection (b)(2)
-Memo: Page 4 and Page 14-15 (N1, O1)
+- Law: Subsection (b)(2)
+- Memo: Page 4 and Page 14-15 (N1, O1)
 
 **Other responsibilities**
-Law: Section 831: Subsection (b)(1)(C)(i)(III), Subsection (b)(1)(A)(i), Subsection (b)(1)(A)(ii)	
-Memo: Page 4 and Pages 11-17
+- Law: Section 831: Subsection (b)(1)(C)(i)(III), Subsection (b)(1)(A)(i), Subsection (b)(1)(A)(ii)	
+- Memo: Page 4 and Pages 11-17
 
 #####2. Transparency
 
 **Federal IT Dashboard**
-Law: Section 832: Enhanced Transparency and Improved Risk Management in Information Technology Investments, Subsection (3)(3)(A)
-Memo: Page 6: Transparency, Risk Management, Portfolio Review, and Reporting
+- Law: Section 832: Enhanced Transparency and Improved Risk Management in Information Technology Investments, Subsection (3)(3)(A)
+- Memo: Page 6: Transparency, Risk Management, Portfolio Review, and Reporting
 
 **Agency IT Dashboard data **
-Law: Section 832: Subsection (3)(3)(B)(i)
-Memo: Page 6
+- Law: Section 832: Subsection (3)(3)(B)(i)
+- Memo: Page 6
 
 **CIO Evaluations Guidance from OMB**
-Law: Section 832: Subsection (3)(3)(B)(i)
-Memo: Page 6
+- Law: Section 832: Subsection (3)(3)(B)(i)
+- Memo: Page 6
 
 **IT Dashboard Data Must Be Provided Bi-Annually**
-Law: Section 832: Subsection (3)(3)(B)(ii)
-Memo: Page 6
+- Law: Section 832: Subsection (3)(3)(B)(ii)
+- Memo: Page 6
 
 **Required Agency/Project Data Improvement Programs**
-Law: Section 832: Subsection (3)(3)(D)
-Memo: Page 6
+- Law: Section 832: Subsection (3)(3)(D)
+- Memo: Page 6
 
 **TechStat Trigger**
-Law: Section 832: Subsection (4)
-Memo: Page 7
+- Law: Section 832: Subsection (4)
+- Memo: Page 7
 
 **TechStat Topics**
-Law: Section 832: Subsection (4)(A)
-Memo: Page 7
+- Law: Section 832: Subsection (4)(A)
+- Memo: Page 7
 
 **OMB TechStat Reporting to Congress**
-Law: Section 832: Subsection (4)(B)
-Memo: Page 7
+- Law: Section 832: Subsection (4)(B)
+- Memo: Page 7
 
 **DME Freeze One Year Post TechStat**
-Law: Section 832: Subsection (4)(D)
-Memo: Page 7
+- Law: Section 832: Subsection (4)(D)
+- Memo: Page 7
 
 #####3. Portfolio Reviews
 **PortfolioStat**
-Law: Section 833: Portfolio Review, Subsection (c)(1)
-Memo: Page 7: Transparency, Risk Management, Portfolio Review, and Reporting
+- Law: Section 833: Portfolio Review, Subsection (c)(1)
+- Memo: Page 7: Transparency, Risk Management, Portfolio Review, and Reporting
 
 **PortfolioStat Process Requirements**
-Law: Section 833: Subsection (c)(1)
-Memo: Page 7 and Page 21-24 _Attachment D: FY2015 PortfolioStat_
+- Law: Section 833: Subsection (c)(1)
+- Memo: Page 7 and Page 21-24 _Attachment D: FY2015 PortfolioStat_
 
 **PortfolioStat Metrics, Cost Savings, and Avoidance**
-Law: Section 833: Subsection (c)(2)
-Memo: Page 7-8 and _Attachment D_
+- Law: Section 833: Subsection (c)(2)
+- Memo: Page 7-8 and _Attachment D_
 
 **PortfolioStat Annual Review**
-Law: Section 833: Subsection (c)(3)
-Memo: Page 8 and _Attachment D_
+- Law: Section 833: Subsection (c)(3)
+- Memo: Page 8 and _Attachment D_
 
 **Quarterly Reports**
-Law: Section 833: Subsection (c)(5)
-Memo: Page 8 and _Attachment D_
+- Law: Section 833: Subsection (c)(5)
+- Memo: Page 8 and _Attachment D_
 
 #####4. Data Center Consolidation Section
 
 **FDCCI**
-Law: Section 834: Federal Data Center Consolidation Initiative
-Memo: Page 8: Federal Data Center Consolidation Initiative (FDCCI)
+- Law: Section 834: Federal Data Center Consolidation Initiative
+- Memo: Page 8: Federal Data Center Consolidation Initiative (FDCCI)
 
 **Agency Reporting**
-Law: Section 834(b)(1)(A)
-Memo: Page 8
+- Law: Section 834(b)(1)(A)
+- Memo: Page 8
 
 **Agency Annual Inventory**
-Law: Section 834(b)(1)(A)(i)
-Memo: To be addressed in forthcoming guidance and/or IDC instructions
+- Law: Section 834(b)(1)(A)(i)
+- Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
 **Agency Annual Strategy**
-Law: Section 834(b)(1)(A)(ii)
-Memo: To be addressed in forthcoming guidance and/or IDC instructions
+- Law: Section 834(b)(1)(A)(ii)
+- Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
 **Agency Annual Statement**
-Law: Section 834(b)(1)(D)
-Memo: To be addressed in forthcoming guidance and/or IDC instructions
+- Law: Section 834(b)(1)(D)
+- Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
 **Agency Quarterly Updates**
-Law: Section 834(b)(1)(E)(i)(II)
-Memo: Page 8
+- Law: Section 834(b)(1)(E)(i)(II)
+- Memo: Page 8
 
 **OMB Reporting and Requirements**
-Law: Section 834(b)(2)
-Memo: To be addressed in forthcoming guidance and/or IDC instructions
+- Law: Section 834(b)(2)
+- Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
 **GAO Review**
-Law: Section 834(b)(4)
-Memo: Not specified
+- Law: Section 834(b)(4)
+- Memo: Not specified
 
 **Cybersecurity and Cloud Computing**
-Law: Section 834(c)
-Memo: Not specified
+- Law: Section 834(c)
+- Memo: Not specified
 
 #####5-7. Acquisition/Procurement Sections
 
 **IT Acquisition Cadres**
-Law: Section 835: Expansion of Training and Use of Information Technology Cadres
-Memo: Page 9: Information Technology Acquisition Requirements
+- Law: Section 835: Expansion of Training and Use of Information Technology Cadres
+- Memo: Page 9: Information Technology Acquisition Requirements
 
 **FSSI Strategic Sourcing**
-Law: Section 836: Maximizing the Benefit of the Federal Strategic Sourcing Initiative
-Memo: Page 9: Information Technology Acquisition Requirements
+- Law: Section 836: Maximizing the Benefit of the Federal Strategic Sourcing Initiative
+- Memo: Page 9: Information Technology Acquisition Requirements
 
 **Governmentwide Software Purchasing Program**
-Law: Section 837: Governmentwide Software Purchasing Program
-Memo: Page 9: Information Technology Acquisition Requirements
+- Law: Section 837: Governmentwide Software Purchasing Program
+- Memo: Page 9: Information Technology Acquisition Requirements
 
 _[Return to the Top]()_
 
@@ -726,7 +729,7 @@ _[Return to the Top]()_
  - Agency receives PortfolioStat action items from OMB: Within 2 weeks of PortfolioStat session
  - Agencies send updates on status of action items : Quarterly via IDC
  - Agency heads review and certify the status of PortfolioStat action items with the agency CIO and send certification to OMB: Annually via IDC
- - Agencies brief Federal CIO and agency head on status of action items which have missed a deadline until complete. : Quarterly following a missed deadline
+ - Agencies brief Federal CIO and agency head on status of action items which have missed a deadline until complete: Quarterly following a missed deadline
  
 #####IT Acquisition Requirements
  - Continued submission of Acquisition Workforce Development Strategic Plans: April 15, 2015, and annually thereafter
@@ -735,58 +738,58 @@ _[Return to the Top]()_
  
 ## Attachment J: Common Acronyms and Abbreviations
 
-ASAM: Assistant Secretaries for Management
-ATO: Authority to Operate
-CAO: Chief Acquisition Officer
-CAP Goal: Cross Agency Priority Goal
-CFO: Chief Financial Officer
-CFO Act: Chief Financial Officer Act of 1990
-CHCO: Chief Human Capital Officer
-CIO: Chief Information Officer
-COO: Chief Operating Officer
-COSH: Cost per Operating System per Hour
-CPIC: Capital Planning and Investment Control
-CXO: Senior Agency Official such as CAO, CFO, CHCO, CIO, COO
-DAP: Digital Analytics Program
-DME: Development, Modernization, and Enhancement
-ECQ: Executive Core Qualifications
-E-Gov: Office of E-Government and Information Technology
-FAC-PPM: Federal Acquisition Certification for Program and Project Managers
-FAR: Federal Acquisition Regulation
-FAR Council: Federal Acquisition Regulatory Council
-FDCCI: Federal Data Center Consolidation Initiative
-FISMA: Federal Information Security Management Act/Federal Information Security Modernization Act
-FITARA: Federal Information Technology Acquisition Reform Act
-FSSI: Federal Strategic Sourcing Initiative
-FTE: Full Time Equivalent
-FY: Fiscal Year
-GAO: Government Accountability Office
-GSA: General Services Administration
-GS: Grade Schedule
-ICAM: Identity Credential and Access Management
-IDC: Integrated Data Collection
-IPv6: Internet Protocol version 6
-IRB: Investment Review Board
-IRM: Information Resource Management
-ISCM: Information Security Continuous Monitoring
-IT: Information Technology
-ITDB: Federal IT Dashboard
-NIST: National Institute for Standards and Technology
-O&M: Operations and Maintenance
-OFPP: Office of Federal Procurement Policy
-OMB: Office of Management and Budget
-OS: Operating System
-PIV: Personal Identity Verification
-PL: Public Law
-PMC: President's Management Council
-PUE: Power Usage Effectiveness
-SAO: Senior Agency Official, as referred to in this guidance, includes positions such as the CFO, CHCO, CAO, ASAM, COOs, and Program Managers
-SES: Senior Executive Service
-SL: Senior Level
-ST: Scientific or Professional Position
-U.S.C.: United States Code
-US-CERT: United States Computer Emergency Readiness Team
-USDS: United States Digital Service
+- ASAM: Assistant Secretaries for Administration/Management
+- ATO: Authority to Operate
+- CAO: Chief Acquisition Officer
+- CAP Goal: Cross Agency Priority Goal
+- CFO: Chief Financial Officer
+- CFO Act: Chief Financial Officer Act of 1990
+- CHCO: Chief Human Capital Officer
+- CIO: Chief Information Officer
+- COO: Chief Operating Officer
+- COSH: Cost per Operating System per Hour
+- CPIC: Capital Planning and Investment Control
+- CXO: Senior Agency Official such as CAO, CFO, CHCO, CIO, COO
+- DAP: Digital Analytics Program
+- DME: Development, Modernization, and Enhancement
+- ECQ: Executive Core Qualifications
+- E-Gov: Office of E-Government and Information Technology
+- FAC-PPM: Federal Acquisition Certification for Program and Project Managers
+- FAR: Federal Acquisition Regulation
+- FAR Council: Federal Acquisition Regulatory Council
+- FDCCI: Federal Data Center Consolidation Initiative
+- FISMA: Federal Information Security Management Act/Federal Information Security Modernization Act
+- FITARA: Federal Information Technology Acquisition Reform Act
+- FSSI: Federal Strategic Sourcing Initiative
+- FTE: Full Time Equivalent
+- FY: Fiscal Year
+- GAO: Government Accountability Office
+- GSA: General Services Administration
+- GS: Grade Schedule
+- ICAM: Identity Credential and Access Management
+- IDC: Integrated Data Collection
+- IPv6: Internet Protocol version 6
+- IRB: Investment Review Board
+- IRM: Information Resource Management
+- ISCM: Information Security Continuous Monitoring
+- IT: Information Technology
+- ITDB: Federal IT Dashboard
+- NIST: National Institute for Standards and Technology
+- O&M: Operations and Maintenance
+- OFPP: Office of Federal Procurement Policy
+- OMB: Office of Management and Budget
+- OS: Operating System
+- PIV: Personal Identity Verification
+- PL: Public Law
+- PMC: President's Management Council
+- PUE: Power Usage Effectiveness
+- SAO: Senior Agency Official, as referred to in this guidance, includes positions such as the CFO, CHCO, CAO, ASAM, COOs, and Program Managers
+- SES: Senior Executive Service
+- SL: Senior Level
+- ST: Scientific or Professional Position
+- U.S.C.: United States Code
+- US-CERT: United States Computer Emergency Readiness Team
+- USDS: United States Digital Service
 
 _[Return to the Top]()_
 
