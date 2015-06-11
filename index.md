@@ -108,7 +108,7 @@ C. The term “information technology” includes computers, ancillary equipment
 
 D. The term “information technology” does not include any equipment that is acquired by a contractor incidental to a contract that does not require use of the equipment.
 
-This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996.[^6] Additional definitions used in this memorandum are available in _Attachment A_.
+This definition is based on the definition of information technology found in the Clinger-Cohen Act of 1996.[^6] Additional definitions used in this memorandum are available in _Attachment B_.
 
 
 
