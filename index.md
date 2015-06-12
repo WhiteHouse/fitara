@@ -29,7 +29,7 @@ This memorandum would require agencies to ensure that their CIO and other manage
 Through TechStat sessions, PortfolioStat sessions, and CyberStat sessions, OMB has seen agencies struggle with successful implementation of IT projects that lack close coordination between the program leaders and the CIO. Strengthening these relationships and strengthening the collaboration between program leadership and the CIO’s organization is a major objective of this memorandum.
 
 4. **Won’t this make today’s CIOs a bottleneck and damage agencies’ ability to deliver their programs?**
-Through extensive outreach and collaboration, we believe we have developed memorandum that is applicable to all agencies in a way that gives them flexibility to implement the law’s requirements and does not create unnecessary bottlenecks. This was an initial primary concern of many CIOs and agency executives. In response, we created the CIO assignment plan to allow the CIO to assign, in a rules-based manner, certain responsibilities to other people in their department. This keeps the accountability with the CIO but allows each agency to realistically meet the law’s requirements while minimizing the chance for bottlenecks.
+Through extensive outreach and collaboration, we believe we have developed a memorandum that is applicable to all agencies in a way that gives them flexibility to implement the law’s requirements and does not create unnecessary bottlenecks. This was an initial primary concern of many CIOs and agency executives. In response, we created the CIO assignment plan to allow the CIO to assign, in a rules-based manner, certain responsibilities to other people in their department. This keeps the accountability with the CIO but allows each agency to realistically meet the law’s requirements while minimizing the chance for bottlenecks.
 
 5. **The new processes described in the common baseline are either redundant with existing agency processes or not aligned with how certain processes function today. How should agencies implement these in their existing structures?**
 In some cases and in some agencies, the roles and responsibilities identified in the Common Baseline may be implemented through existing practices, as long as those practices completely deliver the requirements described in the Common Baseline. However, in other instances, agency practices may need to be revised or strengthened, and agencies may need to establish new practices.
@@ -46,7 +46,7 @@ _[Return to the Top]()_
 ## OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology
 
 ### Purpose
-The purpose of this memorandum is to provide implementation guidance for the Federal Information Technology Acquisition Reform Act (FITARA)[^1] and related information technology (IT) management practices.
+The purpose of this memorandum is to provide implementation guidance for the [Federal Information Technology Acquisition Reform Act](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148) (FITARA)[^1] and related information technology (IT) management practices.
 
 ### Background
 FITARA was enacted on December 19, 2014. FITARA outlines specific requirements related to:
@@ -795,7 +795,7 @@ _[Return to the Top]()_
 
 ## Endnotes
 
-[^1]: Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291. Further references in the text that refer to “FITARA” refer to these sections.
+[^1]: [Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148). Further references in the text that refer to “FITARA” refer to these sections.
 [^2]: Senior Agency Officials, as referred to in this guidance, include positions such as the CFO, CHCO, CAO, ASAM, COO, and Program Manager.
 [^3]: Agencies listed in 31 U.S.C. § 901 (b)(1) and (b)(2).
 [^4]: M-14-08 FY2014 PortfolioStat Guidance available at: [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2014/m-14-08.pdf).
