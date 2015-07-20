@@ -7,7 +7,6 @@ filename: schema.md
 ---
 
 #### JSON File Format
-
 JSON is a lightweight data-exchange format that is very easy to read, parse and generate. Based on a subset of the JavaScript programming language, JSON is a text format that is optimized for data interchange. JSON is built on two structures: (1) a collection of name/value pairs and (2) an ordered list of values.
 
 Where optional fields are included in a catalog file but are unpopulated, they may be represented by a `null` value. They should not be represented by an empty string (`""`).
@@ -19,8 +18,7 @@ The JSON schemas listed on this page are case sensitive. The schemas uses a came
 > Incorrect: `firstname`  
 > incorrect: `FIRSTNAME`  
 
-Bureau IT Leadership Directory 
----------------------------------------
+## Bureau IT Leadership Directory 
 Each agency is expected to post a JSON file for their Bureau IT Leadership Directory to the following URL path: [agency.gov]/digitalstrategy/bureaudirectory.json
 
 Each dataset should include one record for each agency employee with the title of “chief information officer” or who performs the duties and responsibilities of a CIO but does not necessarily have the title of “CIO.”
@@ -71,8 +69,7 @@ Field Name                            | Data Type                       | Requir
 
 *[Extended Bureau IT Leadership Directory JSON Example](https://management.cio.gov/schemaexamples/bureauITLeadershipSchema.json)*
 
-CIO Governance Board Membership List  
----------------------------------------
+## CIO Governance Board Membership List  
 Each agency is expected to post a JSON file for their Bureau IT Leadership Directory to the following URL path: [agency.gov]/digitalstrategy/governanceboards.json
 
 Include all governance boards the CIO is a member of. Agencies shall keep this list up to date at least annually beginning in April 2016.
