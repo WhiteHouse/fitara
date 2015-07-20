@@ -7,9 +7,7 @@
             "cioInvolvementDescription" : "Optional Reviewing Official Title here.  Max 500 characters",
         },
         {
-            "governanceBoardName" : "Board of Boring Names",
+            "governanceBoardName" : "Committee of Planning",
             "bureauCode" : "10",
         }
     ]
-    
-}
