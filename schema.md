@@ -1,7 +1,7 @@
 ---
 published: true
 layout: default
-title: FITARA Metadata Schema 
+title: FITARA Common Baseline Publishing Schema 
 permalink: /schema/
 filename: schema.md
 ---
@@ -67,7 +67,7 @@ Field Name                            | Data Type                       | Requir
 }
 ~~~
 
-*[Extended Bureau IT Leadership Directory JSON Example](https://management.cio.gov/schemaexamples/bureauITLeadershipSchema.json)*
+*[Bureau IT Leadership Directory JSON Schema](https://management.cio.gov/schemaexamples/bureauITLeadershipSchema.json)*
 
 ## CIO Governance Board Membership List  
 Each agency is expected to post a JSON file for their Bureau IT Leadership Directory to the following URL path: [agency.gov]/digitalstrategy/governanceboards.json
@@ -94,7 +94,7 @@ Field Name                            | Data Type                       | Requir
             "cioInvolvementDescription" : "Optional Reviewing Official Title here.  Max 500 characters",
         },
         {
-            "governanceBoardName" : "Board of Boring Names",
+            "governanceBoardName" : "Committe of Planning",
             "bureauCode" : "10",
         }
     ]
@@ -102,4 +102,4 @@ Field Name                            | Data Type                       | Requir
 }
 ~~~
 
-*[Extended CIO Governance Board Membership List JSON Example](https://management.cio.gov/schemaexamples/governanceBoardSchema.json)*
+*[CIO Governance Board Membership JSON Schema](https://management.cio.gov/schemaexamples/governanceBoardSchema.json)*
