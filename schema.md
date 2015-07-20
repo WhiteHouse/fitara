@@ -15,10 +15,10 @@ Where optional fields are included in a catalog file but are unpopulated, they m
 
 The JSON schemas listed on this page are case sensitive. The schemas uses a camel case convention where the first letter of some words within a field are capitalized (usually all words but the first one). While it may seem subtle which characters are uppercase and lowercase, it is necessary to follow the exact same casing as defined in the schema documented here. For example: 
 
-> Correct: `contactPoint`  
-> Incorrect: `ContactPoint`  
-> Incorrect: `contactpoint`  
-> incorrect: `CONTACTPOINT`  
+> Correct: `firstName`  
+> Incorrect: `FirstName`  
+> Incorrect: `firstname`  
+> incorrect: `FIRSTNAME`  
 
 Bureau IT Leadership Directory 
 ---------------------------------------
@@ -40,6 +40,37 @@ Field Name                            | Data Type                       | Requir
 **evaluationReviewingOfficialTitle**  | String (500)                    | No        | If a "reviewing official" is used, describe their title. 
 **keyBureauCIO**                      | Select: Yes, No                 | Yes       | Indicate whether this position is designated by the agency CIO as a “key bureau CIO.” Agency CIOs must provide key bureau CIOs’ rating officials input into the agency-wide critical element(s) described in N1 of the FITARA Common Baseline.
 
+Bureau IT Leadership Directory JSON Syntax Example
+---------------------------------------
+
+~~~json
+{
+    "leaders" : [
+        {
+            "bureauCode" : "12",
+            "firstName" : "Jane",
+            "lastName" : "Smith",
+            "employmentType" : "GS",
+            "typeOfAppointment" : "career",
+            "otherResponsibilities": "Optional description of other responsibilities here.  Max length is 500 characters.",
+            "evaluationRatingOfficialTitle" : "CIO",
+            "evaluationReviewingOfficialTitle" : "Optional Reviewing Official Title here.  Max 500 characters",
+            "keyBureauCIO" : "Yes"
+        },
+        {
+            "bureauCode": "33",
+            "firstName": "John",
+            "lastName": "Doe",
+            "employmentType": "SES",
+            "typeOfAppointment": "political",
+            "evaluationRatingOfficialTitle": "CFO",
+            "keyBureauCIO": "No"            
+        }
+    ]
+    
+}
+~~~
+
 CIO Governance Board Membership List  
 ---------------------------------------
 Each agency is expected to post a JSON file for their Bureau IT Leadership Directory to the following URL path: [agency.gov]/digitalstrategy/governanceboards.json
@@ -54,3 +85,23 @@ Field Name                            | Data Type                       | Requir
 **bureauCode**                        | Int (2)                         | Yes       | Bureau that board is a part of, if at bureau-level or within-bureau board. Otherwise indicate “00”
 **cioInvolvementDescription**         | String (500)                    | No        | Brief description of CIO involvement
 
+CIO Governance Board Membership List JSON Syntax Example
+---------------------------------------
+
+~~~json
+{
+    "boards" : [
+        {
+            "governanceBoardName" : "Committee for Naming Oversight",
+            "programCodeFPI" : "005-001",
+            "bureauCode" : "12",
+            "cioInvolvementDescription" : "Optional Reviewing Official Title here.  Max 500 characters",
+        },
+        {
+            "governanceBoardName" : "Board of Boring Names",
+            "bureauCode" : "10",
+        }
+    ]
+    
+}
+~~~
