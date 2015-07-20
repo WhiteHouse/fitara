@@ -2,7 +2,7 @@
 published: true
 layout: default
 title: FITARA Metadata Schema 
-permalink: /schema
+permalink: /schema/
 filename: schema.md
 ---
 
