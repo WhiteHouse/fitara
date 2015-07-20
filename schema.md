@@ -6,8 +6,7 @@ permalink: /schema/
 filename: schema.md
 ---
 
-Metadata File Format --  JSON
----------------------------------------
+#### JSON File Format
 
 JSON is a lightweight data-exchange format that is very easy to read, parse and generate. Based on a subset of the JavaScript programming language, JSON is a text format that is optimized for data interchange. JSON is built on two structures: (1) a collection of name/value pairs and (2) an ordered list of values.
 
@@ -40,8 +39,7 @@ Field Name                            | Data Type                       | Requir
 **evaluationReviewingOfficialTitle**  | String (500)                    | No        | If a "reviewing official" is used, describe their title. 
 **keyBureauCIO**                      | Select: Yes, No                 | Yes       | Indicate whether this position is designated by the agency CIO as a “key bureau CIO.” Agency CIOs must provide key bureau CIOs’ rating officials input into the agency-wide critical element(s) described in N1 of the FITARA Common Baseline.
 
-Bureau IT Leadership Directory JSON Syntax Example
----------------------------------------
+#### Bureau IT Leadership Directory JSON Syntax Example
 
 ~~~json
 {
@@ -71,6 +69,8 @@ Bureau IT Leadership Directory JSON Syntax Example
 }
 ~~~
 
+*[Extended Bureau IT Leadership Directory JSON Example](https://management.cio.gov/schemaexamples/bureauITLeadershipSchema.json)*
+
 CIO Governance Board Membership List  
 ---------------------------------------
 Each agency is expected to post a JSON file for their Bureau IT Leadership Directory to the following URL path: [agency.gov]/digitalstrategy/governanceboards.json
@@ -85,8 +85,7 @@ Field Name                            | Data Type                       | Requir
 **bureauCode**                        | Int (2)                         | Yes       | Bureau that board is a part of, if at bureau-level or within-bureau board. Otherwise indicate “00”
 **cioInvolvementDescription**         | String (500)                    | No        | Brief description of CIO involvement
 
-CIO Governance Board Membership List JSON Syntax Example
----------------------------------------
+#### CIO Governance Board Membership List JSON Syntax Example 
 
 ~~~json
 {
@@ -105,3 +104,5 @@ CIO Governance Board Membership List JSON Syntax Example
     
 }
 ~~~
+
+*[Extended CIO Governance Board Membership List JSON Example](https://management.cio.gov/schemaexamples/governanceBoardSchema.json)*
