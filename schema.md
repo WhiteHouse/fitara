@@ -91,13 +91,15 @@ Field Name                            | Data Type                       | Requir
             "governanceBoardName" : "Committee for Naming Oversight",
             "programCodeFPI" : "005-001",
             "bureauCode" : "12",
-            "cioInvolvementDescription" : "Optional Reviewing Official Title here.  Max 500 characters",
+            "cioInvolvementDescription" : "Optional Reviewing Official Title here.  Max 500 characters"
         },
         {
             "governanceBoardName" : "Committee of Planning",
-            "bureauCode" : "10",
+            "bureauCode" : "10"
         }
     ]
+    
+}
 ~~~
 
 *[CIO Governance Board Membership JSON Schema](https://management.cio.gov/schemaexamples/governanceBoardSchema.json)*
