@@ -70,7 +70,7 @@ Field Name                            | Data Type                       | Requir
 *[Bureau IT Leadership Directory JSON Schema](https://management.cio.gov/schemaexamples/bureauITLeadershipSchema.json)*
 
 ## CIO Governance Board Membership List  
-Each agency is expected to post a JSON file for their Bureau IT Leadership Directory to the following URL path: [agency.gov]/digitalstrategy/governanceboards.json
+Each agency is expected to post a JSON file for their CIO Governance Board Membership List to the following URL path: [agency.gov]/digitalstrategy/governanceboards.json
 
 Include all governance boards the CIO is a member of. Agencies shall keep this list up to date at least annually beginning in April 2016.
 
