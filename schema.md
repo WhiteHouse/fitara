@@ -105,9 +105,32 @@ Field Name                            | Data Type                       | Requir
 *[CIO Governance Board Membership JSON Schema](https://management.cio.gov/schemaexamples/governanceBoardSchema.json)*
 
 ### IDC Cost Savings and Avoidance
-Each agency is expected to post a JSON file for their IDC Cost Savings and Avoidance to the following URL path: [agency.gov]/digitalstrategy/CostSavingsAndAvoidance.json
+Beginning in the November 30, 2015n, each agency is expected to post a JSON file for their IDC Cost Savings and Avoidance to the following URL path: [agency.gov]/digitalstrategy/CostSavings.json
 
 **Agencies shall update this on a rolling basis and will be evaluated quarterly.** 
+
+#### Tips for ensuring your data are received and published properly:
+
+1. **Do not delete strategies** from your JSON file each quarter. Your JSON file will be a running total of all of your agency's savings strategies since 2012.
+2. Ensure that all FDCCI-related cost savings and avoidances are marked in the "OMB Initiatives" field as " **Data Center**".
+3. Keep the Strategy Title the same each quarter.
+4. Ensure that each Strategy ID is unique.
+5. Enter only _realized_ cost savings/avoidances that are not likely to decrease. **Never** enter projected, potential, or future cost savings/avoidances.
+
+| Field Name | Data Type | Required? | Notes |
+| --- | --- | --- | --- |
+| **strategyID** | Int (4) | Required | Each cost savings/avoidance should be assigned a corresponding strategy ID. Please use this field to distinguish between different agency cost savings/avoidance strategies and to assign a unique identifier to each strategy. Limited to numbers 1-1000 |
+| **strategyTitle** | String (200) | Required | The title of the strategy. This data field is free text and limited to 200 characters. Once a strategy has been reported and is associated with a Strategy Title, this field should not be changed |
+| **decisionDate** | Date (MM/DD/YYYY) | Required | The date the agency decided to use this strategy in the format MM/DD/YYYY |
+| **OMBInitiative** | Select: Data Center, Digital Services, Commodity IT, PortfolioStat, Other | Optional | If applicable, for each cost savings/avoidance strategy, select an OMB initiative that this decision aligns with. To ensure correct reporting, any cost savings or avoidance related to data center consolidation must have “Data Center” in this field |
+| **RelatedUIIs** | String (200) | Required | Indicate the related Unique Investment Identifiers (UIIs) to the strategy |
+| **useOfSavingsAvoidance** | String (500) | Optional | Explain what the resultant savings will be used for, or how it will be repurposed |
+| **netOrGross** | Select: Net, Gross | Optional | Indicate whether cost savings and/or cost avoidance figures are net (as in, net of any costs potentially incurred to implement the strategy) or gross. _Note: OMB requests that all cost savings and/or avoidances be reported only as net amounts. Reporting of gross figures should be reserved only for extreme circumstances in which implementation costs could not be observed or were impossible to determine_ |
+| **amountType** | Select: cost-savings, cost-avoidance, both | Required | Indicate whether the amounts given for each strategy are cost-savings, cost-avoidance, or both. _Note: The savings and avoidance should be described as defined in section 6 of [OMB Circular A-131](https://www.whitehouse.gov/omb/circulars_a131). Cost savings represents reductions in actual expenditures below the projected level of costs to achieve a specific objective. Cost avoidance represents an action taken in the immediate time frame that will decrease costs in the future_ |
+| **FY2012Amount** | Numeric, 1-1000 | Required | _Realized_ costsavings and/or avoidances (added together) for each strategyfor FY12, **in MILLIONS of dollars** |
+| **FY2013Amount** | Numeric, 1-1000 | Required | _Realized_ costsavings and/or avoidances (added together) for each strategyfor FY13, **in MILLIONS of dollars** |
+| **FY2014Amount** | Numeric, 1-1000 | Required | _Realized_ costsavings and/or avoidances (added together) for each strategyfor FY14, **in MILLIONS of dollars** |
+| **FY2015Amount** | Numeric, 1-1000 | Required | _Realized_ costsavings and/or avoidances (added together) for each strategyfor FY15, **in MILLIONS of dollars** |
 
 #### IDC Cost Savings and Avoidance JSON Syntax Example 
 
@@ -354,5 +377,6 @@ Each agency is expected to post a JSON file for their IDC Cost Savings and Avoid
     }
 }
 
-
 ~~~
+
+*[IDC Cost Savings and Avoidance JSON Schema](https://management.cio.gov/schemaexamples/CostSavingsSchema.json)*
