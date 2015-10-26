@@ -70,6 +70,7 @@ Field Name                            | Data Type                       | Requir
 *[Bureau IT Leadership Directory JSON Schema](https://management.cio.gov/schemaexamples/bureauITLeadershipSchema.json)*
 
 ## CIO Governance Board Membership List  
+
 Each agency is expected to post a JSON file for their CIO Governance Board Membership List to the following URL path: [agency.gov]/digitalstrategy/governanceboards.json
 
 Include all governance boards the CIO is a member of. Agencies shall keep this list up to date at least annually beginning in April 2016.
@@ -105,6 +106,7 @@ Field Name                            | Data Type                       | Requir
 *[CIO Governance Board Membership JSON Schema](https://management.cio.gov/schemaexamples/governanceBoardSchema.json)*
 
 ### IDC Cost Savings and Avoidance
+
 On October 23, 2015 agency points of contact were sent their ITOR strategies already converted to JSON format. 
 
 OMB asks agency submitters to: 
@@ -231,7 +233,6 @@ The following resources contain helpful tools for working with JSON data format:
         }
     ]
 }
-
 ~~~
 
 *[IDC Cost Savings and Avoidance JSON Schema](https://management.cio.gov/schemaexamples/costSavingsAvoidanceSchema.json)*
