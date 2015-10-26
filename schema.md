@@ -120,6 +120,7 @@ OMB asks agency submitters to:
 Before the close of the IDC quarter, identifying the JSON dataset as “[Agency] IT Reform Cost Savings/Avoidance” in your Enterprise Data Inventory and Public Data Listings. Your agency should update this data on a rolling basis as savings are realized, and must ensure that the file is updated with all savings realized in a given quarter during the week prior to the IDC collection deadline.
 
 The following resources contain helpful tools for working with JSON data format:
+
 * [Tabular to JSON Converter](http://www.csvjson.com/csv2json): to add a new strategy to your agency’s JSON file, first ensure that all of the columns have the correct field names and are arranged in the correct order. In Microsoft Excel: highlight and copy the new cost savings and avoidance data you wish to add to your JSON file, making sure to include the column headings, and paste that data into the box on the left side of the page and click the button saying “Convert”. The right side window will show your data in a basic JSON structure. In order to conform with the schema, adjust the “amount”, “netOrGross”, and “relatedUIIs” fields as necessary to mimic the spacing, indentation, brackets, colons, and quotation markings in the sample. 
 
 * [JSON Validator](http://jsonlint.com/): Copy and paste the contents of your updated JSON file into the window and click the “Validate” button. The tool will check whether the data is written correctly. If any brackets, quotation marks, colons, or other markings are missing from your file, these issues will be shown to you in error messages beneath the window.
@@ -128,26 +129,26 @@ The following resources contain helpful tools for working with JSON data format:
 
 {: .table .table-striped}
 Field Name                            | Data Type                       | Required? | Notes
---------------                        | --------------                  | ----------| -------------- 
-| **strategyID** | Int (3) | Yes | The unique identifier for the strategy |
-| **strategyTitle** | String (100) | Yes | The title of the strategy  |
-| **decisionDate** | Date (MM/DD/YYYY) | Yes | The date the agency decided to use this strategy |
-| **ombinitiative** | Select: Data Center, Digital Services, Commodity IT, PortfolioStat, Other | Yes | The primary OMB initiative that categorizes this strategy|
-| **relatedUIIs** | String (200) | No | Related investments to the strategy, identified as their Unique Investment Identifiers (UIIs) |
-| **useOfSavingsAvoidance** | String (500) | No | Explain what the resultant savings will be used for, or how it will be repurposed |
-| **amountType** | Select: Cost-savings, Cost-avoidance, Both | Yes | Indicate whether the amounts given for each strategy are cost-savings, cost-avoidance, or both as defined in [OMB Circular A-131](https://www.whitehouse.gov/omb/circulars_a131). |
-| **fy2012** |                 |     |                                                                                 |
-|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY12, **in MILLIONS of dollars** |
-|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 12 amount is net of costs, or gross |
-| **fy2013** |                 |     |                                                                                 |
-|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY13, **in MILLIONS of dollars** |
-|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 13 amount is net of costs, or gross |
-| **fy2014** |                 |     |                                                                                 |
-|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY14, **in MILLIONS of dollars** |
-|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 14 amount is net of costs, or gross |
-| **fy2015** |                 |     |                                                                                 |
-|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY15, **in MILLIONS of dollars** |
-|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 15 amount is net of costs, or gross |
+--------------                        | --------------                  | ----------| --------------
+| **strategyID** | Int (3) | Yes | The unique identifier for the strategy 
+| **strategyTitle** | String (100) | Yes | The title of the strategy  
+| **decisionDate** | Date (MM/DD/YYYY) | Yes | The date the agency decided to use this strategy 
+| **ombinitiative** | Select: Data Center, Digital Services, Commodity IT, PortfolioStat, Other | Yes | The primary OMB initiative that categorizes this strategy
+| **relatedUIIs** | String (200) | No | Related investments to the strategy, identified as their Unique Investment Identifiers (UIIs) 
+| **useOfSavingsAvoidance** | String (500) | No | Explain what the resultant savings will be used for, or how it will be repurposed 
+| **amountType** | Select: Cost-savings, Cost-avoidance, Both | Yes | Indicate whether the amounts given for each strategy are cost-savings, cost-avoidance, or both as defined in [OMB Circular A-131](https://www.whitehouse.gov/omb/circulars_a131). 
+| **fy2012** |                 |     |                                                                                 
+|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY12, **in MILLIONS of dollars** 
+|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 12 amount is net of costs, or gross 
+| **fy2013** |                 |     |                                                                                 
+|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY13, **in MILLIONS of dollars** 
+|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 13 amount is net of costs, or gross 
+| **fy2014** |                 |     |                                                                                 
+|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY14, **in MILLIONS of dollars** 
+|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 14 amount is net of costs, or gross 
+| **fy2015** |                 |     |                                                                                 
+|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY15, **in MILLIONS of dollars** 
+|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 15 amount is net of costs, or gross
 
 #### IDC Cost Savings and Avoidance JSON Syntax Example 
 
