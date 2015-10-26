@@ -128,7 +128,7 @@ The following resources contain helpful tools for working with JSON data format:
 
 {: .table .table-striped}
 Field Name                            | Data Type                       | Required? | Notes
---------------                        | --------------                  | ----------| --------------
+--------------                        | --------------                  | ----------| -------------- 
 | **strategyID** | Int (3) | Yes | The unique identifier for the strategy |
 | **strategyTitle** | String (100) | Yes | The title of the strategy  |
 | **decisionDate** | Date (MM/DD/YYYY) | Yes | The date the agency decided to use this strategy |
