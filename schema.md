@@ -105,17 +105,24 @@ Field Name                            | Data Type                       | Requir
 *[CIO Governance Board Membership JSON Schema](https://management.cio.gov/schemaexamples/governanceBoardSchema.json)*
 
 ### IDC Cost Savings and Avoidance
-Beginning in the November 30, 2015n, each agency is expected to post a JSON file for their IDC Cost Savings and Avoidance to the following URL path: [agency.gov]/digitalstrategy/CostSavings.json
+On October 23, 2015 agency points of contact were sent their ITOR strategies already converted to JSON format. 
 
-**Agencies shall update this on a rolling basis and will be evaluated quarterly.** 
+OMB asks agency submitters to: 
 
-#### Tips for ensuring your data are received and published properly:
+1. Check the information in the file for accuracy;  
+2. Update it with any new savings strategies;  
+3. Fill-out any missing information in the required “strategyId” and “ombInitiatives” fields;  
+4. Fill-out the “netOrGross” field for all savings amounts, indicating whether each year’s amount is “Net” of costs (equal to gross cost savings/avoidance achieved minus implementation costs required to achieve the savings) or “Gross” (meaning, ignoring any costs of implementation); and  
+5. Post your finished file on your agency’s [agency.gov]/digitalstrategy/costsavings.json  
 
-1. **Do not delete strategies** from your JSON file each quarter. Your JSON file will be a running total of all of your agency's savings strategies since 2012.
-2. Ensure that all FDCCI-related cost savings and avoidances are marked in the "OMB Initiatives" field as " **Data Center**".
-3. Keep the Strategy Title the same each quarter.
-4. Ensure that each Strategy ID is unique.
-5. Enter only _realized_ cost savings/avoidances that are not likely to decrease. **Never** enter projected, potential, or future cost savings/avoidances.
+Before the close of the IDC quarter, identifying the JSON dataset as “[Agency] IT Reform Cost Savings/Avoidance” in your Enterprise Data Inventory and Public Data Listings. Your agency should update this data on a rolling basis as savings are realized, and must ensure that the file is updated with all savings realized in a given quarter during the week prior to the IDC collection deadline.
+
+The following resources contain helpful tools for working with JSON data format:
+* [Tabular to JSON Converter](http://www.csvjson.com/csv2json): to add a new strategy to your agency’s JSON file, first ensure that all of the columns have the correct field names and are arranged in the correct order. In Microsoft Excel: highlight and copy the new cost savings and avoidance data you wish to add to your JSON file, making sure to include the column headings, and paste that data into the box on the left side of the page and click the button saying “Convert”. The right side window will show your data in a basic JSON structure. In order to conform with the schema, adjust the “amount”, “netOrGross”, and “relatedUIIs” fields as necessary to mimic the spacing, indentation, brackets, colons, and quotation markings in the sample. 
+
+* [JSON Validator](http://jsonlint.com/): Copy and paste the contents of your updated JSON file into the window and click the “Validate” button. The tool will check whether the data is written correctly. If any brackets, quotation marks, colons, or other markings are missing from your file, these issues will be shown to you in error messages beneath the window.
+
+* [JSON Schema Validator](http://jsonschemalint.com/draft4/): Using the link to the schema provided on this page, copy and paste the schema text into the window on the left side of the page. Then, copy and paste your valid JSON file in the window on the right. Any errors or missing information will be shown immediately in the space below your JSON file.
 
 | Field Name | Data Type | Required? | Notes |
 | --- | --- | --- | --- |
@@ -136,245 +143,86 @@ Beginning in the November 30, 2015n, each agency is expected to post a JSON file
 
 ~~~json
 {
-    "$schema": "http://json-schema.org/draft-04/schema#",
-    "version" : 1.0,
-    "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance",
-    "name": "/",
-    "title": "Realized Cost Savings and Avoidance Schema version 1.0",
-    "description": "Schema definition for describing the Realized Cost Savings and Avoidance data collection",
-    "type": "object",
-    "required": [
-        "strategies"
-    ],
-    "properties": {
-        "strategies": {
-            "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies",
-            "name": "strategies",
-            "title": "Strategies schema",
-            "description": "A list of realized cost savings and avoidance strategies for this agency",
-            "type": "array",
-            "minItems": 1,
-            "additionalItems": false,
-            "required": [
-                "0"
+    "strategies": [
+        {
+            "strategyId": 5,
+            "strategyTitle": "Blanket Purchase Agreement",
+            "decisionDate": "04/12/2011",
+            "ombInitiative": "PortfolioStat",
+            "useOfSavingsAvoidance": "These savings will be reinvested in existing major investments, as determined by business needs.",
+            "amountType": "Cost-Avoidance",
+            "relatedUIIs": [
+                "099-000002345",
+		"099-000000123"
             ],
-            "items": {
-                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0",
-                "name": "0",
-                "title": "initiative 0 schema",
-                "description": "Information about a particular initiative",
-                "type": "object",
-                "required": [
-                    "strategyId",
-                    "strategyTitle",
-                    "decisionDate",
-                    "ombInitiative",
-                    "amountType",
-                    "fy2012",
-                    "fy2013",
-                    "fy2014",
-                    "fy2015"
-                ],
-                "properties": {
-                    "strategyId": {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/strategyId",
-                        "name": "stratgeyId",
-                        "description": "Strategy identifier",
-                        "title": "strategyId schema",
-                        "type": "number",
-                        "minimum": 1,
-                        "maximum": 999,
-                        "multipleOf": 1
-                    },
-                    "strategyTitle": {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/strategyTitle",
-                        "name": "stratgeyTitle",
-                        "title": "strategyTitle schema",
-                        "description": "Strategy title",
-                        "type": "string",
-                        "minLength" : 1,
-                        "maxLength" : 100
-                    },
-                    "useOfSavingsAvoidance": {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/useOfSavingsAvoidance",
-                        "name": "useOfSavingsAvoidance",
-                        "title": "useOfSavingsAvoidance schema",
-                        "description": "Use of Savings Avoidance",
-                        "type": "string",
-                        "minLength" : 1,
-                        "maxLength" : 500
-                    },
-                    "decisionDate": {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/decisionDate",
-                        "name": "regex",
-                        "title": "decisionDate schema",
-                        "description": "Decision date (MM/DD/YYYY format)",
-                        "type": "string",
-                        "pattern": "^[0-9]{2}\/[0-9]{2}\/[0-9]{4}$"
-                    },
-                    "ombInitiative": {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/ombInitiative",
-                        "name": "ombInitiative",
-                        "title": "ombInitiative schema",
-                        "description": "OMB Initiative (Data Center, Digital Services, Commodity IT, PortfolioStat or Other)",
-                        "type": "string",
-                        "enum" : ["Data Center", "Digital Services", "Commodity IT", "PortfolioStat", "Other"]
-                    },
-                    "amountType": {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/properties/amoutType",
-                        "name": "amountType",
-                        "title": "amountType schema",
-                        "description": "Amount Type (Cost-Savings, Cost-Avoidance or Both)",
-                        "type": "string",
-                        "enum" : ["Cost-Savings", "Cost-Avoidance", "Both"]
-                    },
-                    "relatedUIIs": {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/relatedUIIs",
-                        "name": "relatedUIIs",
-                        "title": "relatedUIIs schema",
-                        "description": "Related UIIs",
-                        "type": "array",
-                        "minItems": 1,
-                        "additionalItems": false,
-                        "required": [
-                            "0"
-                        ],
-                        "items": {
-                            "0": {
-                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/relatedUIIs/0",
-                                "name": "0",
-                                "title": "relatedUIIs 0 schema",
-                                "description": "Related UII",
-                                "type": "string",
-                                "pattern": "^[0-9]{3}-[0-9]{9}$"
-                            }
-                            
-                        }
-                    },
-                    "fy2012" : {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2012",
-                        "name": "fy2012",
-                        "title": "fy2012 schema",
-                        "description": "Fiscal Year 2012",
-                        "type": "object",
-                        "required": [
-                            "amount",
-                            "netOrGross"
-                        ],
-                        "properties": {
-                            "amount": {
-                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2012/properties/amout",
-                                "name": "amount",
-                                "title": "fy2012 amount schema",
-                                "description": "Fiscal Year 2012 Amount",
-                                "type": "number",
-                                "minimum": 0,
-                                "maximum": 1000
-                            },
-                            "netOrGross": {
-                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2012/netOrGross",
-                                "name": "amount",
-                                "title": "fy2012 netOrGross schema",
-                                "description": "Fiscal Year 2012 Amount Type (Net or Gross)",
-                                "type": "string",
-                                "enum" : ["Net", "Gross"]                                
-                            }
-                        }
-                    },
-                    "fy2013" : {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2013",
-                        "name": "fy2013",
-                        "title": "fy2013 schema",
-                        "description": "Fiscal Year 2013",
-                        "type": "object",
-                        "required": [
-                            "amount",
-                            "netOrGross"
-                        ],
-                        "properties": {
-                            "amount": {
-                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2013/properties/amout",
-                                "name": "amount",
-                                "title": "fy2013 amount schema",
-                                "description": "Fiscal Year 2013 Amount",
-                                "type": "number",
-                                "minimum": 0,
-                                "maximum": 1000
-                            },
-                            "netOrGross": {
-                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2013/netOrGross",
-                                "name": "amount",
-                                "title": "fy2013 netOrGross schema",
-                                "description": "Fiscal Year 2013 Amount Type (Net or Gross)",
-                                "type": "string",
-                                "enum" : ["Net", "Gross"]                                
-                            }
-                        }
-                    },
-                    "fy2014" : {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2014",
-                        "name": "fy2014",
-                        "title": "fy2014 schema",
-                        "description": "Fiscal Year 2014",
-                        "type": "object",
-                        "required": [
-                            "amount",
-                            "netOrGross"
-                        ],
-                        "properties": {
-                            "amount": {
-                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2014/properties/amout",
-                                "name": "amount",
-                                "title": "fy2014 amount schema",
-                                "description": "Fiscal Year 2014 Amount",
-                                "type": "number",
-                                "minimum": 0,
-                                "maximum": 1000
-                            },
-                            "netOrGross": {
-                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2014/netOrGross",
-                                "name": "amount",
-                                "title": "fy2014 netOrGross schema",
-                                "description": "Fiscal Year 2014 Amount Type (Net or Gross)",
-                                "type": "string",
-                                "enum" : ["Net", "Gross"]                                
-                            }
-                        }
-                    },
-                    "fy2015" : {
-                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2015",
-                        "name": "fy2015",
-                        "title": "fy2015 schema",
-                        "description": "Fiscal Year 2015",
-                        "type": "object",
-                        "required": [
-                            "amount",
-                            "netOrGross"
-                        ],
-                        "properties": {
-                            "amount": {
-                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2015/properties/amout",
-                                "name": "amount",
-                                "title": "fy2015 amount schema",
-                                "description": "Fiscal Year 2015 Amount",
-                                "type": "number",
-                                "minimum": 0,
-                                "maximum": 1000
-                            },
-                            "netOrGross": {
-                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2015/netOrGross",
-                                "name": "amount",
-                                "title": "fy2015 netOrGross schema",
-                                "description": "Fiscal Year 2015 Amount Type (Net or Gross)",
-                                "type": "string",
-                                "enum" : ["Net", "Gross"]                                
-                            }
-                        }
-                    }
-                }
+            "fy2012": {
+                "amount": 4,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 2.17,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 5,
+                "netOrGross": "Gross"
+            },
+            "fy2015": {
+                "amount": 0.25,
+                "netOrGross": "Net"
+            }
+        },
+        {
+            "strategyId": 6,
+            "strategyTitle": "Document Management System (DMS)",
+            "decisionDate": "12/01/2012",
+            "ombInitiative": "Commodity IT",
+            "amountType": "Cost-Savings",
+            "fy2012": {
+                "amount": 0,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 0.79,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 0.699,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0.667,
+                "netOrGross": "Gross"
+            }
+        },
+        {
+            "strategyId": 3,
+            "strategyTitle": "Legacy System Upgrade",
+            "decisionDate": "12/01/2012",
+            "ombInitiative": "Digital Services",
+            "useOfSavingsAvoidance": "To be determined in forthcoming review board meeting.",
+            "amountType": "Cost-Avoidance",
+            "relatedUIIs": [
+                "099-000003000"
+            ],
+            "fy2012": {
+                "amount": 1.2,
+                "netOrGross": "Net"
+            },
+            "fy2013": {
+                "amount": 1.2,
+                "netOrGross": "Net"
+            },
+            "fy2014": {
+                "amount": 1.2,
+                "netOrGross": "Net"
+            },
+            "fy2015": {
+                "amount": 0,
+                "netOrGross": "Net"
             }
         }
-    }
+    ]
 }
 
 ~~~
