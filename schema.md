@@ -124,20 +124,27 @@ The following resources contain helpful tools for working with JSON data format:
 
 * [JSON Schema Validator](http://jsonschemalint.com/draft4/): Using the link to the schema provided on this page, copy and paste the schema text into the window on the left side of the page. Then, copy and paste your valid JSON file in the window on the right. Any errors or missing information will be shown immediately in the space below your JSON file.
 
-| Field Name | Data Type | Required? | Notes |
+ Field Name | Data Type | Required? | Notes |
 | --- | --- | --- | --- |
-| **strategyID** | Int (4) | Required | Each cost savings/avoidance should be assigned a corresponding strategy ID. Please use this field to distinguish between different agency cost savings/avoidance strategies and to assign a unique identifier to each strategy. Limited to numbers 1-1000 |
-| **strategyTitle** | String (200) | Required | The title of the strategy. This data field is free text and limited to 200 characters. Once a strategy has been reported and is associated with a Strategy Title, this field should not be changed |
-| **decisionDate** | Date (MM/DD/YYYY) | Required | The date the agency decided to use this strategy in the format MM/DD/YYYY |
-| **OMBInitiative** | Select: Data Center, Digital Services, Commodity IT, PortfolioStat, Other | Optional | If applicable, for each cost savings/avoidance strategy, select an OMB initiative that this decision aligns with. To ensure correct reporting, any cost savings or avoidance related to data center consolidation must have “Data Center” in this field |
-| **RelatedUIIs** | String (200) | Required | Indicate the related Unique Investment Identifiers (UIIs) to the strategy |
-| **useOfSavingsAvoidance** | String (500) | Optional | Explain what the resultant savings will be used for, or how it will be repurposed |
-| **netOrGross** | Select: Net, Gross | Optional | Indicate whether cost savings and/or cost avoidance figures are net (as in, net of any costs potentially incurred to implement the strategy) or gross. _Note: OMB requests that all cost savings and/or avoidances be reported only as net amounts. Reporting of gross figures should be reserved only for extreme circumstances in which implementation costs could not be observed or were impossible to determine_ |
-| **amountType** | Select: cost-savings, cost-avoidance, both | Required | Indicate whether the amounts given for each strategy are cost-savings, cost-avoidance, or both. _Note: The savings and avoidance should be described as defined in section 6 of [OMB Circular A-131](https://www.whitehouse.gov/omb/circulars_a131). Cost savings represents reductions in actual expenditures below the projected level of costs to achieve a specific objective. Cost avoidance represents an action taken in the immediate time frame that will decrease costs in the future_ |
-| **FY2012Amount** | Numeric, 1-1000 | Required | _Realized_ costsavings and/or avoidances (added together) for each strategyfor FY12, **in MILLIONS of dollars** |
-| **FY2013Amount** | Numeric, 1-1000 | Required | _Realized_ costsavings and/or avoidances (added together) for each strategyfor FY13, **in MILLIONS of dollars** |
-| **FY2014Amount** | Numeric, 1-1000 | Required | _Realized_ costsavings and/or avoidances (added together) for each strategyfor FY14, **in MILLIONS of dollars** |
-| **FY2015Amount** | Numeric, 1-1000 | Required | _Realized_ costsavings and/or avoidances (added together) for each strategyfor FY15, **in MILLIONS of dollars** |
+| **strategyID** | Int (3) | Yes | The unique identifier for the strategy |
+| **strategyTitle** | String (100) | Yes | The title of the strategy  |
+| **decisionDate** | Date (MM/DD/YYYY) | Yes | The date the agency decided to use this strategy |
+| **ombinitiative** | Select: Data Center, Digital Services, Commodity IT, PortfolioStat, Other | Yes | The primary OMB initiative that categorizes this strategy|
+| **relatedUIIs** | String (200) | No | Related investments to the strategy, identified as their Unique Investment Identifiers (UIIs) |
+| **useOfSavingsAvoidance** | String (500) | No | Explain what the resultant savings will be used for, or how it will be repurposed |
+| **amountType** | Select: Cost-savings, Cost-avoidance, Both | Yes | Indicate whether the amounts given for each strategy are cost-savings, cost-avoidance, or both as defined in [OMB Circular A-131](https://www.whitehouse.gov/omb/circulars_a131). |
+| **fy2012** |                 |     |                                                                                 |
+|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY12, **in MILLIONS of dollars** |
+|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 12 amount is net of costs, or gross |
+| **fy2013** |                 |     |                                                                                 |
+|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY13, **in MILLIONS of dollars** |
+|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 13 amount is net of costs, or gross |
+| **fy2014** |                 |     |                                                                                 |
+|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY14, **in MILLIONS of dollars** |
+|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 14 amount is net of costs, or gross |
+| **fy2015** |                 |     |                                                                                 |
+|   *amount* | Numeric, 1-1000 | Yes | _Realized_ total savings for each strategy for FY15, **in MILLIONS of dollars** |
+|   *netOrGross* | Select: Net, Gross | Yes | Indicate whether the FY 15 amount is net of costs, or gross |
 
 #### IDC Cost Savings and Avoidance JSON Syntax Example 
 
