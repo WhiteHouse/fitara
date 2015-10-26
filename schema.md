@@ -234,5 +234,4 @@ The following resources contain helpful tools for working with JSON data format:
 
 ~~~
 
-
 *[IDC Cost Savings and Avoidance JSON Schema](https://management.cio.gov/schemaexamples/costSavingsAvoidanceSchema.json)*
