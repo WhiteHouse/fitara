@@ -126,8 +126,9 @@ The following resources contain helpful tools for working with JSON data format:
 
 * [JSON Schema Validator](http://jsonschemalint.com/draft4/): Using the link to the schema provided on this page, copy and paste the schema text into the window on the left side of the page. Then, copy and paste your valid JSON file in the window on the right. Any errors or missing information will be shown immediately in the space below your JSON file.
 
- Field Name | Data Type | Required? | Notes |
-| --- | --- | --- | --- |
+{: .table .table-striped}
+Field Name                            | Data Type                       | Required? | Notes
+--------------                        | --------------                  | ----------| --------------
 | **strategyID** | Int (3) | Yes | The unique identifier for the strategy |
 | **strategyTitle** | String (100) | Yes | The title of the strategy  |
 | **decisionDate** | Date (MM/DD/YYYY) | Yes | The date the agency decided to use this strategy |
