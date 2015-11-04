@@ -105,7 +105,7 @@ Field Name                            | Data Type                       | Requir
 
 *[CIO Governance Board Membership JSON Schema](https://management.cio.gov/schemaexamples/governanceBoardSchema.json)*
 
-## IDC Cost Savings and Avoidance
+## IDC Realized Cost Savings and Avoidance
 
 On October 23, 2015 agency points of contact were sent their ITOR strategies already converted to JSON format. 
 
