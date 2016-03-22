@@ -1,0 +1,25 @@
+{
+  "milestoneDocument": [
+    {
+      "updatedDate": "2016-04-30"
+    }
+  ],
+  "milestones": [
+    {
+      "milestoneID": "1",
+      "milestoneDesc": "Finalize adoption of revised department-wide policy for IT Investment Review Boards",
+      "milestoneTargetCompletionDate": "2016-09-01",
+      "milestoneStatus": "InProgress",
+      "milestoneStatusDesc": "The revised policy is currently under the review of general counsel, expected to clear this stage by the end of May 2016",
+      "commonBaselineArea": "acquisition"
+    },
+    {
+      "milestoneID": "2",
+      "milestoneDesc": "Conduct training for department budget officers to share new budget formulation rules including CIO staff",
+      "milestoneTargetCompletionDate": "2016-02-01",
+      "milestoneStatus": "Completed",
+      "milestoneStatusDesc": "65 budget officer staff attended the training, including representatives from 12 agencies.",
+      "commonBaselineArea": "budgetFormulation"
+    }
+  ]
+}
