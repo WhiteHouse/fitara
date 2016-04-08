@@ -209,6 +209,9 @@ Field Name                          | Data Type                                 
 **fy2015**                          |                                                                           |           |                                                                                 
  *amount*                           | Numeric, 1-1000                                                           | Yes       | _Realized_ total savings for each strategy for FY15, **in MILLIONS of dollars** 
  *netOrGross*                       | Select: Net, Gross                                                         | Yes       | Indicate whether the FY 15 amount is net of costs, or gross
+ **fy2016**                          |                                                                           |           |                                                                                 
+ *amount*                           | Numeric, 1-1000                                                           | Yes       | _Realized_ total savings for each strategy for FY16, **in MILLIONS of dollars** 
+ *netOrGross*                       | Select: Net, Gross                                                         | Yes       | Indicate whether the FY 16 amount is net of costs, or gross
 
 #### IDC Cost Savings and Avoidance JSON Syntax Example 
 
