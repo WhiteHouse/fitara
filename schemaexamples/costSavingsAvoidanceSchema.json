@@ -3,7 +3,7 @@
     "version": 1,
     "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance",
     "name": "/",
-    "title": "Realized Cost Savings and Avoidance Schema version 1.0",
+    "title": "Realized Cost Savings and Avoidance Schema",
     "description": "Schema definition for describing the Realized Cost Savings and Avoidance data collection",
     "type": "object",
     "required": [
@@ -36,7 +36,8 @@
                     "fy2012",
                     "fy2013",
                     "fy2014",
-                    "fy2015"
+                    "fy2015",
+		    "fy2016"
                 ],
                 "properties": {
                     "strategyId": {
@@ -247,6 +248,39 @@
                                 "name": "amount",
                                 "title": "fy2015 netOrGross schema",
                                 "description": "Fiscal Year 2015 Amount Type (Net or Gross)",
+                                "type": "string",
+                                "enum": [
+                                    "Net",
+                                    "Gross"
+                               ]
+                            }
+                        }
+                    },
+                    "fy2016": {
+                        "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2016",
+                        "name": "fy2016",
+                        "title": "fy2016 schema",
+                        "description": "Fiscal Year 2016",
+                        "type": "object",
+                        "required": [
+                            "amount",
+                            "netOrGross"
+                        ],
+                        "properties": {
+                            "amount": {
+                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2016/properties/amount",
+                                "name": "amount",
+                                "title": "fy2016 amount schema",
+                                "description": "Fiscal Year 2016 Amount",
+                                "type": "number",
+                                "minimum": 0,
+                                "maximum": 1000
+                            },
+                            "netOrGross": {
+                                "id": "https://omb.max.gov/schemas/CostSavingsAndAvoidance/strategies/0/fy2016/netOrGross",
+                                "name": "amount",
+                                "title": "fy2016 netOrGross schema",
+                                "description": "Fiscal Year 2016 Amount Type (Net or Gross)",
                                 "type": "string",
                                 "enum": [
                                     "Net",
