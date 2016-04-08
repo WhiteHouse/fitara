@@ -244,6 +244,10 @@ Field Name                          | Data Type                                 
             "fy2015": {
                 "amount": 0.25,
                 "netOrGross": "Net"
+             },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
             }
         },
         {
@@ -267,6 +271,10 @@ Field Name                          | Data Type                                 
             "fy2015": {
                 "amount": 0.667,
                 "netOrGross": "Gross"
+            },
+            "fy2016": {
+                "amount": 0,
+                "netOrGross": "Net"
             }
         },
         {
