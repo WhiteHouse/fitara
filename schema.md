@@ -301,3 +301,4 @@ Field Name                          | Data Type                                 
 ~~~
 
 *[IDC Cost Savings and Avoidance JSON Schema](https://management.cio.gov/schemaexamples/costSavingsAvoidanceSchema.json)*
+*[OFCIO JSON User Guide](https://github.com/WhiteHouse/fitara/raw/gh-pages/assets/docs/JSON%20User%20Guide_v4_02%2011%2016.pdf)
