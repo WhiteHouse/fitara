@@ -81,7 +81,7 @@ Field Name                         | Data Type                                  
 }
 ~~~
 
-*[Agency FITARA Milestones JSON Schema](https://management.cio.gov/schemaexamples/FITARAMilestonesSchema.json)*
+*[Agency FITARA Milestones JSON Example File](https://management.cio.gov/schemaexamples/FITARAMilestonesExample.json)*
 
 
 ## Bureau IT Leadership Directory 
