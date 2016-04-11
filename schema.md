@@ -32,6 +32,8 @@ The following resources contain helpful tools for working with JSON data format:
 
 ## Agency FITARA Milestones
 
+Post a "fitaramilestones.json" file to "agency.gov"/digitalstrategy with the following contents.
+
 First, each milestones JSON document must include a "milestoneDocument" section providing the overall date of last update to the milestones items.
 
 {: .table .table-striped}
