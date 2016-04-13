@@ -345,7 +345,7 @@ _[Return to the Top]()_
 
 **Agency CIO** - The Chief Information Officer at the headquarters level of a department or establishment of the government as defined in [Section 20 of OMB Circular A-11](https://www.whitehouse.gov/sites/default/files/omb/assets/a11_current_year/s20.pdf) (contrast with ‘bureau CIO’).
 
-**Bureau CIO** - Official with the title or role of Chief Information Officer within a principal subordinate organizational unit of the agency, as defined in [Section 20 of OMB Circular A-11](https://www.whitehouse.gov/sites/default/files/omb/assets/a11_current_year/s20.pdf), or any component organization of the agency (contrast with ‘agency CIO’). 
+**Bureau CIO** - Official with the title or role of Chief Information Officer within a principal subordinate organizational unit of the agency, as defined in [Section 20 of OMB Circular A-11](https://www.whitehouse.gov/sites/default/files/omb/assets/a11_current_year/s20.pdf), or any component organization of the agency (contrast with ‘agency CIO’).
 
 **Major IT Investment** - An IT investment requiring special management attention because of its importance to the mission or function to the government; significant program or policy implications; high executive visibility; high development, operating, or maintenance costs; unusual funding mechanism; or definition as major by the agency’s capital planning and investment control process. Agencies should also include all "major automated information system" as defined in 10 U.S.C. 2445 and all “major acquisitions” as defined in the OMB Circular A-11 Capital Programming Guide consisting of information resources. OMB may work with the agency to declare IT investments as major IT investments. Agencies must consult with assigned OMB desk officers and resource management offices (RMOs) regarding which investments are considered “major.” Investments not considered “major” are “non-major.”
 
@@ -425,7 +425,7 @@ In alignment with the Administration’s core IT objectives, PortfolioStat sessi
 ### Fiscal Year 2015 PortfolioStat Performance Metrics[^34]
 
 #### Drive Value in Federal IT Investments
-  
+
 {: .table .table-striped}  
 Metric                           | Metric Definition
 -------------                       | --------------
@@ -435,7 +435,7 @@ Development, Modernization, and Enhancement (DME) Spending | Percent of IT spend
 IPv6 Adoption                       | Percent of operational “Internet Protocol version 6” (IPv6) enabled domains
 
 #### Deliver World Class Services
-  
+
 {: .table .table-striped}  
  Metric | Metric Definition
  ------------- | --------------
@@ -463,43 +463,43 @@ _[Return to the Top]()_
 When conducting TechStat reviews, PortfolioStat reviews, or evaluating investments related to High Impact Programs, agencies shall use the following framework for describing investment and portfolio management maturity with OMB. These scores may be compared or aggregated across bureaus, agencies, or governmentwide to provide a summary of overall IT management maturity. This model may be updated over time as common root causes of implementation challenges or other common management issues are identified.
 
 Agencies shall evaluate their performance in each of the following areas by comparing their performance to a set of criteria provided by OMB describing performance at three levels: (1) "Reacting", (2) "Implementing", and (3) "Optimizing". More information will be provided as a part of the PortfolioStat process.
-  
+
 **Management**  
  - Program/Project Management  
  - Portfolio Management  
  - Enterprise    
  - Strategy  
  - Financial Management  
-  
+
 **People**  
  - Leadership  
  - Accountability  
  - Talent/HRM  
  - Customer-Centric  
-  
+
 **Process**  
  - Governance  
  - Agile  
  - Transparency  
  - Complexity  
-  
+
 **Technology**  
  - Security  
  - Scalability  
  - Open  
  - Reuse  
-  
+
 **Acquisition**  
  - Strategic Sourcing  
  - Flexibility  
  - Scope  
  - Lock-in  
-  
+
 _[Return to the Top]()_
 
 ## Attachment F: Additional Agency Human Capital Plan Requirements
 
-In February 2015, OMB added the following additional requirements for civilian CFO Act agencies to those established in _Acquisition Workforce Development Strategic Plan for Civilian Agencies – FY2010 – 2014_.[^39] 
+In February 2015, OMB added the following additional requirements for civilian CFO Act agencies to those established in _Acquisition Workforce Development Strategic Plan for Civilian Agencies – FY2010 – 2014_.[^39]
 
 ####Additional FITARA Related Sections for Agency Human Capital Plan
 
@@ -509,7 +509,7 @@ If yes, please elaborate.  If no, please explain your agency’s plans for devel
 **Personnel Development:** Has your agency taken steps to develop personnel assigned to IT acquisitions, including cross-functional training of acquisition IT and program personnel?    Select Yes or No
 If yes, please elaborate.  If no, please explain if and how your agency plans to develop personnel assigned to IT acquisitions.
 
-**Specialized Career Path for IT Program Managers:** Has your agency utilized the specialized career path for IT program managers as designated by OPM?    Select Yes or No 
+**Specialized Career Path for IT Program Managers:** Has your agency utilized the specialized career path for IT program managers as designated by OPM?    Select Yes or No
 Has your agency strengthened IT program management?    Select Yes or No
 If yes, how many IT program managers have you designated? If no, does your agency plan to utilize the specialized career path? When? If your agency has strengthened IT program management, please explain how it has done so.  If your agency has not strengthened IT program management yet, please explain if it plans to do so and how.  If it is not planning to strengthen IT program management, please explain why.
 
@@ -526,32 +526,32 @@ _[Return to the Top]()_
 
 ## Attachment G: Related Forthcoming Policies Roadmap
 
-Some requirements and objectives described throughout this document are related to forthcoming new policies or changes to existing guidance/instructions to be released later in FY2015, such as: 
+Some requirements and objectives described throughout this document are related to forthcoming new policies or changes to existing guidance/instructions to be released later in FY2015, such as:
 
-#####Updates to OMB Circular A-130: Management of Federal Information Resources
-- Legislative Requirements Addressed: FISMA Modernization, overall IT management, governance and role of CIO, privacy, and information management	
+##### Updates to OMB Circular A-130: Management of Federal Information Resources
+- Legislative Requirements Addressed: FISMA Modernization, overall IT management, governance and role of CIO, privacy, and information management
 - Estimated Timeframe: December 2015
 
-#####A-11 budget preparation requirements:
+##### A-11 budget preparation requirements:
 - CIO/CFO statements in overall budget submission (OMB Justification) (Sections 25, 31, 51.3)
-- Section 55 capital planning and investment control reporting requirements (formerly Exhibit 53 and Exhibit 300)	
+- Section 55 capital planning and investment control reporting requirements (formerly Exhibit 53 and Exhibit 300)
 - Legislative Requirements Addressed: FITARA Section 831: CIO Authorities
 - Estimated Timeframe: June 2015
 
-#####E-Gov Integrated Data Collection (IDC) reporting instructions
+##### E-Gov Integrated Data Collection (IDC) reporting instructions
 - Legislative Requirements Addressed: Reporting requirements throughout FITARA
 - Estimated Timeframe: June 2015 (New instructions to be published)
 
-#####FITARA-related FSSI FAR case
-- Legislative Requirements Addressed: FITARA Section 836: FSSI	
+##### FITARA-related FSSI FAR case
+- Legislative Requirements Addressed: FITARA Section 836: FSSI
 - Estimated Timeframe: Opened February 2015, completion estimated in FY2016
 
-#####OMB Circular A-123: Management’s Responsibility for Internal Controls
+##### OMB Circular A-123: Management’s Responsibility for Internal Controls
 - Inclusion of IT management in material weaknesses identified in annual assurance statement.  	
 - Legislative Requirements Addressed: FITARA Section 831: CIO Authorities
 - Estimated Timeframe: June 2015
 
-#####Data Center Optimization Policy
+##### Data Center Optimization Policy
 - Legislative Requirements Addressed: FITARA Section 834: Data Center Consolidation
 - Estimated Timeframe: By end of FY2015
 
@@ -561,140 +561,140 @@ _[Return to the Top]()_
 
 The materials below summarize which portions of the above guidance address which sections of FITARA.
 
-####1. CIO Authorities
+#### 1. CIO Authorities
 
-#####Contract review
+##### Contract review
 - Law:Section 831: CIO Authority Enhancements, Subsection (b)(1)(C)(i)(I)
 - Memo: Page 4: Implementation of the Common Baseline, Page 12: Attachment A (F1)
 
-#####Reprogramming review
+##### Reprogramming review
 - Law: Section 831: Subsection (b)(1)(C)(i)(II)
 - Memo: Page 4 and Page 11 (B1)
 
-#####Adequate incremental development
-- Law: Section 831: Subsection (b)(1)(B)(ii)	
+##### Adequate incremental development
+- Law: Section 831: Subsection (b)(1)(B)(ii)
 - Memo: Page 4 and Page 14 (M1)
 
-#####Budget approval
+##### Budget approval
 - Law: Section 831: Subsection (b)(1)(B)(i)
 - Memo: Page 4 and Page 11 (A1, C1)
 
-#####Bureau CIO approval	Section 831:
+##### Bureau CIO approval	Section 831:
 - Law: Subsection (b)(2)
 - Memo: Page 4 and Page 14-15 (N1, O1)
 
-#####Other responsibilities
-- Law: Section 831: Subsection (b)(1)(C)(i)(III), Subsection (b)(1)(A)(i), Subsection (b)(1)(A)(ii)	
+##### Other responsibilities
+- Law: Section 831: Subsection (b)(1)(C)(i)(III), Subsection (b)(1)(A)(i), Subsection (b)(1)(A)(ii)
 - Memo: Page 4 and Pages 11-17
 
-####2. Transparency
+#### 2. Transparency
 
-#####Federal IT Dashboard
+##### Federal IT Dashboard
 - Law: Section 832: Enhanced Transparency and Improved Risk Management in Information Technology Investments, Subsection (3)(3)(A)
 - Memo: Page 6: Transparency, Risk Management, Portfolio Review, and Reporting
 
-#####Agency IT Dashboard data 
+##### Agency IT Dashboard data
 - Law: Section 832: Subsection (3)(3)(B)(i)
 - Memo: Page 6
 
-#####CIO Evaluations Guidance from OMB
+##### CIO Evaluations Guidance from OMB
 - Law: Section 832: Subsection (3)(3)(B)(i)
 - Memo: Page 6
 
-#####IT Dashboard Data Must Be Provided Bi-Annually
+##### IT Dashboard Data Must Be Provided Bi-Annually
 - Law: Section 832: Subsection (3)(3)(B)(ii)
 - Memo: Page 6
 
-#####Required Agency/Project Data Improvement Programs
+##### Required Agency/Project Data Improvement Programs
 - Law: Section 832: Subsection (3)(3)(D)
 - Memo: Page 6
 
-#####TechStat Trigger
+##### TechStat Trigger
 - Law: Section 832: Subsection (4)
 - Memo: Page 7
 
-#####TechStat Topics
+##### TechStat Topics
 - Law: Section 832: Subsection (4)(A)
 - Memo: Page 7
 
-#####OMB TechStat Reporting to Congress
+##### OMB TechStat Reporting to Congress
 - Law: Section 832: Subsection (4)(B)
 - Memo: Page 7
 
-#####DME Freeze One Year Post TechStat
+##### DME Freeze One Year Post TechStat
 - Law: Section 832: Subsection (4)(D)
 - Memo: Page 7
 
-####3. Portfolio Reviews
-#####PortfolioStat
+#### 3. Portfolio Reviews
+##### PortfolioStat
 - Law: Section 833: Portfolio Review, Subsection (c)(1)
 - Memo: Page 7: Transparency, Risk Management, Portfolio Review, and Reporting
 
-#####PortfolioStat Process Requirements
+##### PortfolioStat Process Requirements
 - Law: Section 833: Subsection (c)(1)
 - Memo: Page 7 and Page 21-24 _Attachment D: FY2015 PortfolioStat_
 
-#####PortfolioStat Metrics, Cost Savings, and Avoidance
+##### PortfolioStat Metrics, Cost Savings, and Avoidance
 - Law: Section 833: Subsection (c)(2)
 - Memo: Page 7-8 and _Attachment D_
 
-#####PortfolioStat Annual Review
+##### PortfolioStat Annual Review
 - Law: Section 833: Subsection (c)(3)
 - Memo: Page 8 and _Attachment D_
 
-#####Quarterly Reports
+##### Quarterly Reports
 - Law: Section 833: Subsection (c)(5)
 - Memo: Page 8 and _Attachment D_
 
-####4. Data Center Consolidation Section
+#### 4. Data Center Consolidation Section
 
-#####FDCCI
+##### FDCCI
 - Law: Section 834: Federal Data Center Consolidation Initiative
 - Memo: Page 8: Federal Data Center Consolidation Initiative (FDCCI)
 
-#####Agency Reporting
+##### Agency Reporting
 - Law: Section 834(b)(1)(A)
 - Memo: Page 8
 
-#####Agency Annual Inventory
+##### Agency Annual Inventory
 - Law: Section 834(b)(1)(A)(i)
 - Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
-#####Agency Annual Strategy
+##### Agency Annual Strategy
 - Law: Section 834(b)(1)(A)(ii)
 - Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
-#####Agency Annual Statement
+##### Agency Annual Statement
 - Law: Section 834(b)(1)(D)
 - Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
-#####Agency Quarterly Updates
+##### Agency Quarterly Updates
 - Law: Section 834(b)(1)(E)(i)(II)
 - Memo: Page 8
 
-#####OMB Reporting and Requirements
+##### OMB Reporting and Requirements
 - Law: Section 834(b)(2)
 - Memo: To be addressed in forthcoming guidance and/or IDC instructions
 
-#####GAO Review
+##### GAO Review
 - Law: Section 834(b)(4)
 - Memo: Not specified
 
-#####Cybersecurity and Cloud Computing
+##### Cybersecurity and Cloud Computing
 - Law: Section 834(c)
 - Memo: Not specified
 
-####5-7. Acquisition/Procurement Sections
+#### 5-7. Acquisition/Procurement Sections
 
-#####IT Acquisition Cadres
+##### IT Acquisition Cadres
 - Law: Section 835: Expansion of Training and Use of Information Technology Cadres
 - Memo: Page 9: Information Technology Acquisition Requirements
 
-#####FSSI Strategic Sourcing
+##### FSSI Strategic Sourcing
 - Law: Section 836: Maximizing the Benefit of the Federal Strategic Sourcing Initiative
 - Memo: Page 9: Information Technology Acquisition Requirements
 
-#####Governmentwide Software Purchasing Program
+##### Governmentwide Software Purchasing Program
 - Law: Section 837: Governmentwide Software Purchasing Program
 - Memo: Page 9: Information Technology Acquisition Requirements
 
@@ -702,40 +702,40 @@ _[Return to the Top]()_
 
 ## Attachment I: Summary of Agency Deadlines and Requirements
 
-#####Common Baseline for IT Management
+##### Common Baseline for IT Management
  - Agencies which operate systems related to national security: Meet with OMB within 60 days following the final release of the guidance to discuss requirements
  - Complete agency self-assessment and plan, as well as CIO Assignment Plan, if used, and submit to OMB for approval: By August 15, 2015
  - Publish agency implementation plan and CIO Assignment Plan to the agency’s public website and include in public data listing: Within 30 days of receiving OMB approval of plan
  - Publicly publish Bureau IT Leadership Directory as a dataset in public data listing as instructed in IDC: List in agency public data listing by August 15, 2015 and kept up to date thereafter
- - IT processes and policies publicly posted at agency.gov/digitalstrategy and include as a dataset in public data listing as instructed in IDC: By August 30, 2015 and kept up to date thereafter 
+ - IT processes and policies publicly posted at agency.gov/digitalstrategy and include as a dataset in public data listing as instructed in IDC: By August 30, 2015 and kept up to date thereafter
  - OMB shall be notified of all governance boards the CIO is a member of via IDC: By August 30, 2015 and kept up to date thereafter via IDC
  - Include IT statements regarding CIO involvement in budget formulation (see OMB Circular A-11 for FY2017): September 2015 with preliminary budget materials
  - Agency-wide critical element(s) included in all bureau CIOs’ performance evaluations: By December 31, 2015
  - Adopt Common Baseline: By December 31, 2015
  - Conduct annual agency review and update self-assessment: By April 30, 2016 and each April on an annual basis
- 
-#####IT Dashboard (Enhanced Transparency)
+
+##### IT Dashboard (Enhanced Transparency)
  - Monthly reporting to IT Dashboard: As data are available, or at least once per calendar month for each major IT investment
- - Data improvement program: Address unreliable or untimely IT Dashboard data within 30 days; provide status update as a part of quarterly IDC 
- 
-#####TechStat (Improved Risk Management)
- - Notify OMB of Planned TechStat Session: At least 2 weeks in advance via email 
+ - Data improvement program: Address unreliable or untimely IT Dashboard data within 30 days; provide status update as a part of quarterly IDC
+
+##### TechStat (Improved Risk Management)
+ - Notify OMB of Planned TechStat Session: At least 2 weeks in advance via email
  - Automatic TechStat sessions for high risk rated investments (three months): Within 30 days of the completion of the third month where CIO evaluation is “Red” (“three months” begins July 1, 2015)
  - Report TechStat outcomes and outputs: Via IDC
  - Automatic OMB performance and budgetary actions: Completion of four consecutive quarters where CIO evaluation is still “Red” following an automatic TechStat (beginning July 1, 2015)
 
-#####PortfolioStat (Portfolio Review)
+##### PortfolioStat (Portfolio Review)
  - PortfolioStat Sessions: Quarterly: Within 8 weeks following the IDC submission deadline
  - Agency receives PortfolioStat action items from OMB: Within 2 weeks of PortfolioStat session
  - Agencies send updates on status of action items : Quarterly via IDC
  - Agency heads review and certify the status of PortfolioStat action items with the agency CIO and send certification to OMB: Annually via IDC
  - Agencies brief Federal CIO and agency head on status of action items which have missed a deadline until complete: Quarterly following a missed deadline
- 
-#####IT Acquisition Requirements
+
+##### IT Acquisition Requirements
  - Continued submission of Acquisition Workforce Development Strategic Plans: April 15, 2015, and annually thereafter
 
 _[Return to the Top]()_
- 
+
 ## Attachment J: Common Acronyms and Abbreviations
 
 - ASAM: Assistant Secretaries for Administration/Management
@@ -833,4 +833,4 @@ _[Return to the Top]()_
 [^36]: Protect metrics are each based on a component of the Cybersecurity Cross-Agency Priority Goal described on Performance.gov. Each of these components is described in detail at: [http://www.dhs.gov/xlibrary/assets/nppd/ciofismametricsfinal.pdf](http://www.dhs.gov/xlibrary/assets/nppd/ciofismametricsfinal.pdf). The Cybersecurity CAP goal metrics are currently being revised for FY 2015 and therefore the performance metrics in this area are subject to change.
 [^37]: Memorandum for Chief Information Officers: Security Authorization of Information Systems in Cloud Computing Environments (December 8, 2011)
 [^38]: FedRAMP Compliant Systems: [https://www.fedramp.gov/marketplace/compliant-systems/](https://www.fedramp.gov/marketplace/compliant-systems/)
-[^39]: Available online at: [http://www.whitehouse.gov/sites/default/files/omb/assets/procurement_workforce/AWF_Plan_10272009.pdf](http://www.whitehouse.gov/sites/default/files/omb/assets/procurement_workforce/AWF_Plan_10272009.pdf) 
+[^39]: Available online at: [http://www.whitehouse.gov/sites/default/files/omb/assets/procurement_workforce/AWF_Plan_10272009.pdf](http://www.whitehouse.gov/sites/default/files/omb/assets/procurement_workforce/AWF_Plan_10272009.pdf)
