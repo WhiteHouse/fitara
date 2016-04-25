@@ -83,8 +83,9 @@ Field Name                         | Data Type                                  
 }
 ~~~
 
-*[Agency FITARA Milestones JSON Example File](https://management.cio.gov/schemaexamples/FITARAMilestonesExample.json)*
+*[Agency FITARA Milestones JSON Schema File](https://raw.githubusercontent.com/WhiteHouse/fitara/gh-pages/schemaexamples/FITARA_milestones_schema.json)*
 
+*[Agency FITARA Milestones JSON Example File](https://management.cio.gov/schemaexamples/FITARAMilestonesExample.json)*
 
 ## Bureau IT Leadership Directory 
 Each agency is expected to post a JSON file for their Bureau IT Leadership Directory to the following URL path: [agency.gov]/digitalstrategy/bureaudirectory.json
