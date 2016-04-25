@@ -83,7 +83,7 @@ Field Name                         | Data Type                                  
 }
 ~~~
 
-*[Agency FITARA Milestones JSON Schema File](https://raw.githubusercontent.com/WhiteHouse/fitara/gh-pages/schemaexamples/FITARA_milestones_schema.json)*
+*[Agency FITARA Milestones JSON Schema File](https://management.cio.gov/schemaexamples/FITARA_milestones_schema.json)*
 
 *[Agency FITARA Milestones JSON Example File](https://management.cio.gov/schemaexamples/FITARAMilestonesExample.json)*
 
