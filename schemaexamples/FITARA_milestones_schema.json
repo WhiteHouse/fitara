@@ -36,7 +36,7 @@
 				  "milestoneStatus": {"type": "string", "enum": ["NotStarted", "InProgress", "Complete", "Deferred"]},
 				  "milestoneStatusDesc": { "type": "string", "maxlength": 500},
 				  "commonBaselineArea": {"type": "string", "enum": ["budgetFormulation", "budgetExecution", "acquisition", "organizationAndWorkforce"]}
-				  }
+				  },
 				"required": [
 				  "milestoneID",
 				  "milestoneDesc",
