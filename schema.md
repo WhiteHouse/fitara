@@ -59,7 +59,7 @@ Field Name                         | Data Type                                  
 {
   "milestoneDocument": [
     {
-      "updatedDate": "2016-04-30"
+      "updatedDate": "2016-04-30",
     }
   ],
   "milestones": [
