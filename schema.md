@@ -39,7 +39,7 @@ First, each milestones JSON document must include a "milestoneDocument" section 
 {: .table .table-striped}
 Field Name                         | Data Type                                           | Required? | Notes
 --------------                     | --------------                                      | ----------| --------------
-**updatedDate**                    | String (yyyy-mm-dd)                                 | Yes       |           
+**updatedDate**                    | String (yyyy/mm/dd)                                 | Yes       |           
 
 Then, create an entry for each of your agency's FITARA milestones, providing the following information for each:
 
