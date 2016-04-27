@@ -48,7 +48,7 @@ Field Name                         | Data Type                                  
 --------------                     | --------------                                      | ----------| --------------
 **milestoneID**                    | Int (3)                                             | Yes       |
 **milestoneDesc**                  | String (500)                                         | Yes       |
-**milestoneTargetCompletionDate**  | String (yyyy/mm/dd)                                 | Yes       | JSON doesn't have a "date" type so use a string, but format as 2016-12-25
+**milestoneTargetCompletionDate**  | String (yyyy/mm/dd)                                 | Yes       | JSON doesn't have a "date" type so use a string, but format as 2016/12/25
 **milestoneStatus**                | Select: NotStarted, InProgress, Complete, Deferred  | Yes       | 
 **milestoneStatusDesc**            | String (500)					 | Yes        | Describe in detail agency responses to status (e.g. ongoing actions, dependencies, partial milestones).
 **commonBaselineArea**             | Select: budgetFormulation, budgetExecution, acquisition, organizationAndWorkforce                                        | Yes        | 
