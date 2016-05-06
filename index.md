@@ -793,6 +793,8 @@ _[Return to the Top]()_
 
 _[Return to the Top]()_
 
+## [Attachment K: Applying FITARA Common Baseline to Statistical Agencies and Units](/assets/docs/FITARA_Guidance_Statistical_Agencies_and_Units_OMB.pdf)
+
 ## Endnotes
 
 [^1]: [Title VIII, Subtitle D of the National Defense Authorization Act (NDAA) for Fiscal Year 2015, Pub. L. No. 113-291](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148). Further references in the text that refer to “FITARA” refer to these sections.
