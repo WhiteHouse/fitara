@@ -28,7 +28,6 @@ kramdown:
 permalink: pretty
 # markdown: rdiscount
 highlighter: pygments
-# url: https://management.cio.gov
 
 collections:
   - guidanceSections
