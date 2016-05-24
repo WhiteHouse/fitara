@@ -1,7 +1,8 @@
-##Management and Oversight of Federal Information Technology
+##Management and Oversight of Federal Information Technology Public Comments 
+
 The Federal Information Technology Acquisition Reform Act ([FITARA)](https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148]), passed by Congress in December 2014, is a historic law that represents the first major overhaul of Federal information Technology (IT) in almost 20 years.  Since FITARA’s passing, OMB published guidance to agencies to ensure that this law is applied consistently governmentwide in a way that is both workable and effective. This guidance is now available as OMB Memorandum M-15-14: Management and Oversight of Federal Information Technology.
 
-OMB used this Github site, also available at https://management.cio.gov, to collect public feedback on proposed guidance in April 2015. Today this site is still available as a place to continue the discussion of FITARA implementation although the implementation guidance has been finalized.
+OMB used this Github site to collect public feedback on proposed guidance in April 2015. To continue the discussion of FITARA implementation and to access resources from the CIO Council, please visit our updated repo [here](https://github.com/WhiteHouse/CIOmanagement), also available at https://management.cio.gov.
 
 ### License
 
