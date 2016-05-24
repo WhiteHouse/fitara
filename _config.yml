@@ -6,8 +6,7 @@ desc: Office of Management and Budget (OMB) M-15-14
 url: https://management.cio.gov
 
 #global settings, no need to change these
-root_url: https://management.cio.gov
-production_hostname: management.cio.gov
+root_url: 
 org_name: whitehouse
 repo_name: fitara
 branch: gh-pages
